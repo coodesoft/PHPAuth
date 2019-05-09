@@ -1,0 +1,33 @@
+
+ 
+############################
+ Fecha y Hora: 2019-04-03 22:10:40
+
+data: 
+REMOTE_ADDR: 181.29.126.51
+HTTP_CLIENT_IP: 
+DATA: {"data":{"id":"10"},"headers":{"Host":"34.216.72.1","Connection":"keep-alive","Content-Length":"11","Accept":"application\/json, text\/plain, *\/*","Origin":"http:\/\/localhost:8100","Authorization":"Bearer $2y$10$OdscjHio6l5KichtGOg4UeAhwW0cegpo3B3YexgqxmsU7F.KaO6oy","User-Agent":"Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.86 Safari\/537.36","Content-Type":"application\/json","Referer":"http:\/\/localhost:8100\/","Accept-Encoding":"gzip, deflate","Accept-Language":"es-419,es;q=0.9"}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 22:10:44
+
+data: 
+REMOTE_ADDR: 181.29.126.51
+HTTP_CLIENT_IP: 
+DATA: {"data":{"id":"11"},"headers":{"Host":"34.216.72.1","Connection":"keep-alive","Content-Length":"11","Accept":"application\/json, text\/plain, *\/*","Origin":"http:\/\/localhost:8100","Authorization":"Bearer $2y$10$OdscjHio6l5KichtGOg4UeAhwW0cegpo3B3YexgqxmsU7F.KaO6oy","User-Agent":"Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.86 Safari\/537.36","Content-Type":"application\/json","Referer":"http:\/\/localhost:8100\/","Accept-Encoding":"gzip, deflate","Accept-Language":"es-419,es;q=0.9"}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 22:56:31
+
+data: 
+REMOTE_ADDR: 181.29.126.51
+HTTP_CLIENT_IP: 
+DATA: {"data":{"id":"9"},"headers":{"Host":"34.216.72.1","Connection":"keep-alive","Content-Length":"10","Accept":"application\/json, text\/plain, *\/*","Origin":"http:\/\/localhost:8100","Authorization":"Bearer $2y$10$z8rH.iEJXIWSFN67klKTNe.vgjT33GQCDQ2MQoqba.kJ..5GXhwQ.","User-Agent":"Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.86 Safari\/537.36","Content-Type":"application\/json","Referer":"http:\/\/localhost:8100\/","Accept-Encoding":"gzip, deflate","Accept-Language":"es-419,es;q=0.9"}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 22:57:57
+
+data: 
+REMOTE_ADDR: 181.29.126.51
+HTTP_CLIENT_IP: 
+DATA: {"data":{"id":"9"},"headers":{"Host":"34.216.72.1","Connection":"keep-alive","Content-Length":"10","Accept":"application\/json, text\/plain, *\/*","Origin":"http:\/\/localhost:8100","Authorization":"Bearer $2y$10$6eyBNiIa6c4zR5HM0Fv9Zu9YSKFnrlOvlHRgVqGSi1rkrFMjTr8pK","User-Agent":"Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.86 Safari\/537.36","Content-Type":"application\/json","Referer":"http:\/\/localhost:8100\/","Accept-Encoding":"gzip, deflate","Accept-Language":"es-419,es;q=0.9"}}

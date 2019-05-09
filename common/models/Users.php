@@ -2,10 +2,10 @@
 namespace common\models;
 
 use Yii;
-use common\models\UsersInRole;
-use common\models\Usersinorganization;
 use common\models\OrganizationSection;
 use common\models\UsersTokenLog;
+use common\models\Usersinorganization;
+use common\models\UsersInRole;
 
 class Users extends \yii\db\ActiveRecord
 {
@@ -19,9 +19,129 @@ class Users extends \yii\db\ActiveRecord
     }
 
     // CREAR UN NUEVO usuario
-    public function create($data){
+    public function create($d){ //[Modificar] Hay que aplicar transacciones
+      $usr = new Users();
+      $usr->FirstName = $d->personal_info->FirstName;
+      $usr->LastName  = $d->personal_info->LastName;
+      $usr->email     = $d->personal_info->email;
+      $usr->created   = date('Y-m-d H-i-s');
+      $usr->updated   = date('Y-m-d H-i-s');
 
+      if (!$usr->save(false)) { return false; }
+
+      $uio = new Usersinorganization();
+      $uio->OrganizationId = $d->organization;
+      $uio->UserId         = $usr->id;
+      if (!$uio->save(false)) { return false; }
+
+      for($c=0;$c<count($d->Rol_list);$c++){
+        if($d->Rol_list[$c]->v){
+          $r = new UsersInRole();
+          $r->RoleId = $d->Rol_list[$c]->cod;
+          $r->UserId = $usr->id;
+          $r->save(false);
+        }
+      }
+
+      return $uio->save(false);
     }
+
+    //editar
+    public function edit($d){ // [Modificar] hay que aplicar transacciones de yii
+      $usr = Users::findOne(['id'=>$d->id]);
+      $usr->FirstName = $d->personal_info->FirstName;
+      $usr->LastName  = $d->personal_info->LastName;
+      $usr->email     = $d->personal_info->email;
+      $usr->created   = date('Y-m-d H-i-s');
+      $usr->updated   = date('Y-m-d H-i-s');
+
+      //se actualiza la contraseña en caso de que se hay especificado una nueva
+      if ($d->Pass != ''){
+        if ($d->Pass != $d->RPass) { return false; }
+        $usr->password = password_hash($d->Pass, PASSWORD_DEFAULT);
+      }
+
+      if (!$usr->save(false)) { return false; }
+
+      Usersinorganization::deleteAll(['UserId' => $d->id]);
+      $uio = new Usersinorganization();
+      $uio->OrganizationId = $d->organization;
+      $uio->UserId         = $usr->id;
+      if (!$uio->save(false)) { return false; }
+
+      //se borran los registros de users inrole
+      UsersInRole::deleteAll(['UserId' => $d->id]);
+      for($c=0;$c<count($d->Rol_list);$c++){
+        if($d->Rol_list[$c]->v){
+          $r = new UsersInRole();
+          $r->RoleId = $d->Rol_list[$c]->cod;
+          $r->UserId = $usr->id;
+          $r->save(false);
+        }
+
+      }
+
+      return true;
+    }
+
+    public static function getAll(){
+      $all = (new \yii\db\Query())
+                  ->select('U.id, U.FirstName, U.LastName, U.email, U.disabled_on, O.Name AS Organization ')->distinct()->from( self::tableName().' U' )
+                  ->innerJoin('UsersInOrganization UO', 'U.id=UO.UserId')
+                  ->innerJoin('Organizations O', 'UO.OrganizationId=O.id')
+                  ->all();
+      return $all;
+    }
+
+    public static function getOneForEdit($id){
+      $salida = ['personal_info' => [], 'organization' => [], 'roles' => [], 'id' => $id];
+
+      $salida['personal_info'] = (new \yii\db\Query())
+                  ->select('FirstName, LastName, email')->distinct()->from( self::tableName() )
+                  ->where(['id' => $id])
+                  ->all()[0];
+
+      $salida['organization'] = self::getOrganization($id);
+
+      $salida['roles'] = self::getRoles($id);
+
+      return $salida;
+    }
+
+    public static function getRoles($id){
+      $all = (new \yii\db\Query())
+                  ->select('R.*')->from( 'UsersInRole UR' )
+                  ->innerJoin('Roles R', 'UR.RoleId=R.id')
+                  ->where(['UserId' => $id])
+                  ->all();
+      return $all;
+    }
+
+    public static function getOrganization($id){
+      $all = (new \yii\db\Query())
+                  ->select('UO.*, O.name, O.email')->from( 'UsersInOrganization UO' )
+                  ->innerJoin('Organizations O', 'UO.OrganizationId=O.id')
+                  ->where(['UO.UserId' => $id])
+                  ->all();
+      return $all[0];
+    }
+
+    public static function enable($id){
+      $userM = self::findOne(['id'=>$id]);
+      if (count($userM)==0){ return false;  }
+
+      $userM->disabled_on = NULL;
+      return $userM->save(false);
+    }
+
+    public static function disableUser($id){
+      $userM = self::findOne(['id'=>$id]);
+      if (count($userM)==0){ return false;  }
+
+      $userM->disabled_on = date('Y-m-d H-i-s');
+      return $userM->save(false);
+    }
+
     // ACTUALIZACION DE CONTRASEÑA
     public function updatePass($p){
       if (!password_verify($p['actual'],$this->password)){
@@ -71,19 +191,30 @@ class Users extends \yii\db\ActiveRecord
     // DOCUMENTOS ACCESIBLES
     public function getDocumentsAuthorized(){
       $documents = (new \yii\db\Query())
-                  ->select('D.*')->distinct()->from('DocumentTypes D')
+                  ->select('D.*, OT.cod as ObjectTypeCode')->distinct()->from('DocumentTypes D')
+                  ->innerJoin('ObjectType OT', 'D.ObjectTypeId=OT.id')
                   ->innerJoin('DocumentsPerProfile DP', 'D.id=DP.IdDocument')
                   ->innerJoin('Profiles P', 'DP.IdProfile=P.id')
-                  ->innerJoin('Users U', 'P.id=U.profile_code')
-                  ->where(['U.id' => $this->id])
+                  ->innerJoin('UsersInProfile UP', 'P.id=UP.idProfile')
+                  ->where(['UP.idUser' => $this->id])
                   ->all();
       return $documents;
+    }
+
+    // INFORMACIÓN DE LA ORGANIZACIÓN
+    public function getOrganizationInfo(){
+      $organizations =  (new \yii\db\Query())
+                  ->select('O.Code, O.Name, O.id, O.email')->from('Organizations O')
+                  ->innerJoin('UsersInOrganization UO', 'O.id=UO.OrganizationId')
+                  ->where(['UO.UserId' => $this->id])
+                  ->all();
+      return $organizations;
     }
 
     //INICIO DE SESION
     private function newToken(){
       $this->token_datetime = date('Y-m-d H-i-s');
-      $this->token = password_hash($this->email.$this->token_datetime, PASSWORD_DEFAULT); //'Y3J1enN1aXphOmNydXpzdWl6YQ==';
+      $this->token = password_hash($this->email.$this->token_datetime, PASSWORD_DEFAULT);
 
       $userM = Users::findOne(['token'=>$this->token]);
       if (count($userM)>0){
@@ -150,34 +281,6 @@ class Users extends \yii\db\ActiveRecord
         }
       }
       return false;
-    }
-
-    public function getOrganization(){
-      $salida = [];
-      $m = Usersinorganization::findOne(['UserId'=>$this->id]);
-
-      if (count($m)>0){
-        $os = OrganizationSection::findOne(['OrganizationId'=>$m->OrganizationId]);
-      //  die(var_dump($os));
-      //  foreach ($os as $v) {
-          $r = [];
-          $r['MinimunAge']          = $os->MinAge;
-          $r['MaximumAge']          = $os->MaxAge;
-          $r['urlProductAdm']       = $os->urlProductAdm;
-          $r['MaxInsuredAmount']    = $os->MaxInsuredAmount;
-          $r['MaxBrokerFee']        = $os->MaxBrokerFee;
-          $r['AgentEnrollmentCode'] = $os->AgentEnrollmentCode;
-          $r['AgentFee']            = $os->AgentFee;
-          $r['section']             = $os->section->Name;
-
-          $salida['sections'][$os->section->Code] = $r;
-        //}
-
-        $salida['type']            = $m->organization->Type;
-        $salida['enrollment_code'] = $m->organization->EnrollmentCode;
-      }
-
-      return $salida;
     }
 
     /**

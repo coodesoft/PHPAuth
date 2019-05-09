@@ -1,0 +1,51 @@
+
+ 
+############################
+ Fecha y Hora: 2019-02-23 22:30:22
+
+token not found
+ 
+############################
+ Fecha y Hora: 2019-02-23 23:03:24
+
+token not found
+ 
+############################
+ Fecha y Hora: 2019-02-23 23:11:03
+
+Monto no ingresado
+ 
+############################
+ Fecha y Hora: 2019-02-23 23:11:36
+
+Monto tiene que ser mayor a cero
+ 
+############################
+ Fecha y Hora: 2019-02-25 00:05:15
+
+Monto no ingresado
+ 
+############################
+ Fecha y Hora: 2019-03-11 19:21:25
+
+user not found
+ 
+############################
+ Fecha y Hora: 2019-03-11 19:21:29
+
+user not found
+ 
+############################
+ Fecha y Hora: 2019-03-11 19:21:38
+
+user not found
+ 
+############################
+ Fecha y Hora: 2019-03-11 19:21:44
+
+user not found
+ 
+############################
+ Fecha y Hora: 2019-03-15 01:41:31
+
+token not found

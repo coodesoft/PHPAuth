@@ -1,0 +1,177 @@
+
+ 
+############################
+ Fecha y Hora: 2019-03-06 18:50:57
+
+data: 
+REMOTE_ADDR: 181.27.177.244
+HTTP_CLIENT_IP: 
+DATA: {"data":null,"headers":{"Host":"34.216.72.1","User-Agent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko\/20100101 Firefox\/65.0","Accept":"application\/json, text\/plain, *\/*","Accept-Language":"en-US,en;q=0.5","Accept-Encoding":"gzip, deflate","Referer":"http:\/\/localhost:8100\/","Authorization":"Bearer $2y$10$47S1npkOf14fCtE2.F6sKemWN6S2TZd7m.DISt4x2WAh7KovsAP\/2","Origin":"http:\/\/localhost:8100","Connection":"keep-alive","Pragma":"no-cache","Cache-Control":"no-cache","Content-Length":"0"}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 05:10:22
+
+data: 
+REMOTE_ADDR: 186.39.250.216
+HTTP_CLIENT_IP: 
+DATA: {"data":{"id":"7","FirstName":"Usuario","LastName":"Administrador","email":"test.coode@gmail.com"},"headers":{"Host":"34.216.72.1","User-Agent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:66.0) Gecko\/20100101 Firefox\/66.0","Accept":"application\/json, text\/plain, *\/*","Accept-Language":"es-AR,es;q=0.8,en-US;q=0.5,en;q=0.3","Accept-Encoding":"gzip, deflate","Referer":"http:\/\/localhost:8100\/","Authorization":"Bearer $2y$10$dBY\/dsDnv\/MCR9dOmyKMw.ClyYgsOtX.yv.OHZb3hEtznTAjFVxSe","Content-Type":"application\/json","Content-Length":"90","Origin":"http:\/\/localhost:8100","Connection":"keep-alive"}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 05:10:23
+
+data: 
+REMOTE_ADDR: 186.39.250.216
+HTTP_CLIENT_IP: 
+DATA: {"data":{"id":"7","FirstName":"Usuario","LastName":"Administrador","email":"test.coode@gmail.com"},"headers":{"Host":"34.216.72.1","User-Agent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:66.0) Gecko\/20100101 Firefox\/66.0","Accept":"application\/json, text\/plain, *\/*","Accept-Language":"es-AR,es;q=0.8,en-US;q=0.5,en;q=0.3","Accept-Encoding":"gzip, deflate","Referer":"http:\/\/localhost:8100\/","Authorization":"Bearer $2y$10$dBY\/dsDnv\/MCR9dOmyKMw.ClyYgsOtX.yv.OHZb3hEtznTAjFVxSe","Content-Type":"application\/json","Content-Length":"90","Origin":"http:\/\/localhost:8100","Connection":"keep-alive"}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 05:10:23
+
+data: 
+REMOTE_ADDR: 186.39.250.216
+HTTP_CLIENT_IP: 
+DATA: {"data":{"id":"7","FirstName":"Usuario","LastName":"Administrador","email":"test.coode@gmail.com"},"headers":{"Host":"34.216.72.1","User-Agent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:66.0) Gecko\/20100101 Firefox\/66.0","Accept":"application\/json, text\/plain, *\/*","Accept-Language":"es-AR,es;q=0.8,en-US;q=0.5,en;q=0.3","Accept-Encoding":"gzip, deflate","Referer":"http:\/\/localhost:8100\/","Authorization":"Bearer $2y$10$dBY\/dsDnv\/MCR9dOmyKMw.ClyYgsOtX.yv.OHZb3hEtznTAjFVxSe","Content-Type":"application\/json","Content-Length":"90","Origin":"http:\/\/localhost:8100","Connection":"keep-alive"}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 05:10:23
+
+data: 
+REMOTE_ADDR: 186.39.250.216
+HTTP_CLIENT_IP: 
+DATA: {"data":{"id":"7","FirstName":"Usuario","LastName":"Administrador","email":"test.coode@gmail.com"},"headers":{"Host":"34.216.72.1","User-Agent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:66.0) Gecko\/20100101 Firefox\/66.0","Accept":"application\/json, text\/plain, *\/*","Accept-Language":"es-AR,es;q=0.8,en-US;q=0.5,en;q=0.3","Accept-Encoding":"gzip, deflate","Referer":"http:\/\/localhost:8100\/","Authorization":"Bearer $2y$10$dBY\/dsDnv\/MCR9dOmyKMw.ClyYgsOtX.yv.OHZb3hEtznTAjFVxSe","Content-Type":"application\/json","Content-Length":"90","Origin":"http:\/\/localhost:8100","Connection":"keep-alive"}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 05:19:34
+
+data: 
+REMOTE_ADDR: 186.39.250.216
+HTTP_CLIENT_IP: 
+DATA: {"data":{"id":"7","FirstName":"Usuario","LastName":"Administrador","email":"test.coode@gmail.com"},"headers":{"Host":"34.216.72.1","User-Agent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:66.0) Gecko\/20100101 Firefox\/66.0","Accept":"application\/json, text\/plain, *\/*","Accept-Language":"es-AR,es;q=0.8,en-US;q=0.5,en;q=0.3","Accept-Encoding":"gzip, deflate","Referer":"http:\/\/34.216.72.1\/cajeros\/","Authorization":"Bearer $2y$10$hELURmaOZPrAgNba1IQt5eeBSqFQFYY3y37h7BhyzWDWzFLY6nKOe","Content-Type":"application\/json","Content-Length":"90","Connection":"keep-alive"}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 05:19:35
+
+data: 
+REMOTE_ADDR: 186.39.250.216
+HTTP_CLIENT_IP: 
+DATA: {"data":{"id":"7","FirstName":"Usuario","LastName":"Administrador","email":"test.coode@gmail.com"},"headers":{"Host":"34.216.72.1","User-Agent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:66.0) Gecko\/20100101 Firefox\/66.0","Accept":"application\/json, text\/plain, *\/*","Accept-Language":"es-AR,es;q=0.8,en-US;q=0.5,en;q=0.3","Accept-Encoding":"gzip, deflate","Referer":"http:\/\/34.216.72.1\/cajeros\/","Authorization":"Bearer $2y$10$hELURmaOZPrAgNba1IQt5eeBSqFQFYY3y37h7BhyzWDWzFLY6nKOe","Content-Type":"application\/json","Content-Length":"90","Connection":"keep-alive"}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 05:19:35
+
+data: 
+REMOTE_ADDR: 186.39.250.216
+HTTP_CLIENT_IP: 
+DATA: {"data":{"id":"7","FirstName":"Usuario","LastName":"Administrador","email":"test.coode@gmail.com"},"headers":{"Host":"34.216.72.1","User-Agent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:66.0) Gecko\/20100101 Firefox\/66.0","Accept":"application\/json, text\/plain, *\/*","Accept-Language":"es-AR,es;q=0.8,en-US;q=0.5,en;q=0.3","Accept-Encoding":"gzip, deflate","Referer":"http:\/\/34.216.72.1\/cajeros\/","Authorization":"Bearer $2y$10$hELURmaOZPrAgNba1IQt5eeBSqFQFYY3y37h7BhyzWDWzFLY6nKOe","Content-Type":"application\/json","Content-Length":"90","Connection":"keep-alive"}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 05:19:35
+
+data: 
+REMOTE_ADDR: 186.39.250.216
+HTTP_CLIENT_IP: 
+DATA: {"data":{"id":"7","FirstName":"Usuario","LastName":"Administrador","email":"test.coode@gmail.com"},"headers":{"Host":"34.216.72.1","User-Agent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:66.0) Gecko\/20100101 Firefox\/66.0","Accept":"application\/json, text\/plain, *\/*","Accept-Language":"es-AR,es;q=0.8,en-US;q=0.5,en;q=0.3","Accept-Encoding":"gzip, deflate","Referer":"http:\/\/34.216.72.1\/cajeros\/","Authorization":"Bearer $2y$10$hELURmaOZPrAgNba1IQt5eeBSqFQFYY3y37h7BhyzWDWzFLY6nKOe","Content-Type":"application\/json","Content-Length":"90","Connection":"keep-alive"}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 05:19:35
+
+data: 
+REMOTE_ADDR: 186.39.250.216
+HTTP_CLIENT_IP: 
+DATA: {"data":{"id":"7","FirstName":"Usuario","LastName":"Administrador","email":"test.coode@gmail.com"},"headers":{"Host":"34.216.72.1","User-Agent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:66.0) Gecko\/20100101 Firefox\/66.0","Accept":"application\/json, text\/plain, *\/*","Accept-Language":"es-AR,es;q=0.8,en-US;q=0.5,en;q=0.3","Accept-Encoding":"gzip, deflate","Referer":"http:\/\/34.216.72.1\/cajeros\/","Authorization":"Bearer $2y$10$hELURmaOZPrAgNba1IQt5eeBSqFQFYY3y37h7BhyzWDWzFLY6nKOe","Content-Type":"application\/json","Content-Length":"90","Connection":"keep-alive"}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 22:02:54
+
+data: 
+REMOTE_ADDR: 186.39.205.250
+HTTP_CLIENT_IP: 
+DATA: {"data":{"id":{"id":"7","FirstName":"Usuario","LastName":"Administrador","email":"test.coode@gmail.com"}},"headers":{"Host":"34.216.72.1","User-Agent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:66.0) Gecko\/20100101 Firefox\/66.0","Accept":"application\/json, text\/plain, *\/*","Accept-Language":"es-AR,es;q=0.8,en-US;q=0.5,en;q=0.3","Accept-Encoding":"gzip, deflate","Referer":"http:\/\/localhost:8100\/","Authorization":"Bearer $2y$10$fgg9huUw3dXbQO6LedTkN.hilbSpEHDzFA3lGpapdZ3yaoN8VtJ\/q","Content-Type":"application\/json","Content-Length":"97","Origin":"http:\/\/localhost:8100","Connection":"keep-alive"}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 22:03:16
+
+data: 
+REMOTE_ADDR: 186.39.205.250
+HTTP_CLIENT_IP: 
+DATA: {"data":{"id":{"id":"7","FirstName":"Usuario","LastName":"Administrador","email":"test.coode@gmail.com"}},"headers":{"Host":"34.216.72.1","User-Agent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:66.0) Gecko\/20100101 Firefox\/66.0","Accept":"application\/json, text\/plain, *\/*","Accept-Language":"es-AR,es;q=0.8,en-US;q=0.5,en;q=0.3","Accept-Encoding":"gzip, deflate","Referer":"http:\/\/localhost:8100\/","Authorization":"Bearer $2y$10$fgg9huUw3dXbQO6LedTkN.hilbSpEHDzFA3lGpapdZ3yaoN8VtJ\/q","Content-Type":"application\/json","Content-Length":"97","Origin":"http:\/\/localhost:8100","Connection":"keep-alive"}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 16:51:23
+
+data: 
+REMOTE_ADDR: 186.39.205.250
+HTTP_CLIENT_IP: 
+DATA: {"data":{"id":{"id":"7","FirstName":"Usuario","LastName":"Administrador","email":"test.coode@gmail.com"}},"headers":{"Host":"34.216.72.1","User-Agent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:66.0) Gecko\/20100101 Firefox\/66.0","Accept":"application\/json, text\/plain, *\/*","Accept-Language":"es-AR,es;q=0.8,en-US;q=0.5,en;q=0.3","Accept-Encoding":"gzip, deflate","Referer":"http:\/\/localhost:8100\/","Authorization":"Bearer $2y$10$.GV4BdjGtIUq2DkfnH4UpOPlManVjeQxVc7ahuHWmoWz4GTNRNHai","Content-Type":"application\/json","Content-Length":"97","Origin":"http:\/\/localhost:8100","Connection":"keep-alive"}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 16:51:29
+
+data: 
+REMOTE_ADDR: 186.39.205.250
+HTTP_CLIENT_IP: 
+DATA: {"data":{"id":{"id":"7","FirstName":"Usuario","LastName":"Administrador","email":"test.coode@gmail.com"}},"headers":{"Host":"34.216.72.1","User-Agent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:66.0) Gecko\/20100101 Firefox\/66.0","Accept":"application\/json, text\/plain, *\/*","Accept-Language":"es-AR,es;q=0.8,en-US;q=0.5,en;q=0.3","Accept-Encoding":"gzip, deflate","Referer":"http:\/\/localhost:8100\/","Authorization":"Bearer $2y$10$.GV4BdjGtIUq2DkfnH4UpOPlManVjeQxVc7ahuHWmoWz4GTNRNHai","Content-Type":"application\/json","Content-Length":"97","Origin":"http:\/\/localhost:8100","Connection":"keep-alive"}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 17:59:02
+
+data: 
+REMOTE_ADDR: 186.39.205.250
+HTTP_CLIENT_IP: 
+DATA: {"data":{"id":"7"},"headers":{"Host":"34.216.72.1","User-Agent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:66.0) Gecko\/20100101 Firefox\/66.0","Accept":"application\/json, text\/plain, *\/*","Accept-Language":"es-AR,es;q=0.8,en-US;q=0.5,en;q=0.3","Accept-Encoding":"gzip, deflate","Referer":"http:\/\/localhost:8100\/","Authorization":"Bearer $2y$10$8pFJHnycdGyEX0b2HcKLOexkrNOP3ZRhsYmhtg1vLS4Mj0iIisH0y","Content-Type":"application\/json","Content-Length":"10","Origin":"http:\/\/localhost:8100","Connection":"keep-alive"}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 17:59:09
+
+data: 
+REMOTE_ADDR: 186.39.205.250
+HTTP_CLIENT_IP: 
+DATA: {"data":{"id":"7"},"headers":{"Host":"34.216.72.1","User-Agent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:66.0) Gecko\/20100101 Firefox\/66.0","Accept":"application\/json, text\/plain, *\/*","Accept-Language":"es-AR,es;q=0.8,en-US;q=0.5,en;q=0.3","Accept-Encoding":"gzip, deflate","Referer":"http:\/\/localhost:8100\/","Authorization":"Bearer $2y$10$8pFJHnycdGyEX0b2HcKLOexkrNOP3ZRhsYmhtg1vLS4Mj0iIisH0y","Content-Type":"application\/json","Content-Length":"10","Origin":"http:\/\/localhost:8100","Connection":"keep-alive"}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 18:02:55
+
+data: 
+REMOTE_ADDR: 186.39.205.250
+HTTP_CLIENT_IP: 
+DATA: {"data":{"id":"8"},"headers":{"Host":"34.216.72.1","User-Agent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:66.0) Gecko\/20100101 Firefox\/66.0","Accept":"application\/json, text\/plain, *\/*","Accept-Language":"es-AR,es;q=0.8,en-US;q=0.5,en;q=0.3","Accept-Encoding":"gzip, deflate","Referer":"http:\/\/localhost:8100\/","Authorization":"Bearer $2y$10$8pFJHnycdGyEX0b2HcKLOexkrNOP3ZRhsYmhtg1vLS4Mj0iIisH0y","Content-Type":"application\/json","Content-Length":"10","Origin":"http:\/\/localhost:8100","Connection":"keep-alive"}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 18:25:23
+
+data: 
+REMOTE_ADDR: 186.39.205.250
+HTTP_CLIENT_IP: 
+DATA: {"data":{"id":"11"},"headers":{"Host":"34.216.72.1","User-Agent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:66.0) Gecko\/20100101 Firefox\/66.0","Accept":"application\/json, text\/plain, *\/*","Accept-Language":"es-AR,es;q=0.8,en-US;q=0.5,en;q=0.3","Accept-Encoding":"gzip, deflate","Referer":"http:\/\/localhost:8100\/","Authorization":"Bearer $2y$10$vfbHCkXk7qnF.5JHZc0BsOPZxaVomf8Qub3nugjY.G\/2JXMmxOoRq","Content-Type":"application\/json","Content-Length":"11","Origin":"http:\/\/localhost:8100","Connection":"keep-alive"}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 22:56:28
+
+data: 
+REMOTE_ADDR: 181.29.126.51
+HTTP_CLIENT_IP: 
+DATA: {"data":{"id":"9"},"headers":{"Host":"34.216.72.1","Connection":"keep-alive","Content-Length":"10","Accept":"application\/json, text\/plain, *\/*","Origin":"http:\/\/localhost:8100","Authorization":"Bearer $2y$10$z8rH.iEJXIWSFN67klKTNe.vgjT33GQCDQ2MQoqba.kJ..5GXhwQ.","User-Agent":"Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.86 Safari\/537.36","Content-Type":"application\/json","Referer":"http:\/\/localhost:8100\/","Accept-Encoding":"gzip, deflate","Accept-Language":"es-419,es;q=0.9"}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 22:56:33
+
+data: 
+REMOTE_ADDR: 181.29.126.51
+HTTP_CLIENT_IP: 
+DATA: {"data":{"id":"9"},"headers":{"Host":"34.216.72.1","Connection":"keep-alive","Content-Length":"10","Accept":"application\/json, text\/plain, *\/*","Origin":"http:\/\/localhost:8100","Authorization":"Bearer $2y$10$z8rH.iEJXIWSFN67klKTNe.vgjT33GQCDQ2MQoqba.kJ..5GXhwQ.","User-Agent":"Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.86 Safari\/537.36","Content-Type":"application\/json","Referer":"http:\/\/localhost:8100\/","Accept-Encoding":"gzip, deflate","Accept-Language":"es-419,es;q=0.9"}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 22:57:59
+
+data: 
+REMOTE_ADDR: 181.29.126.51
+HTTP_CLIENT_IP: 
+DATA: {"data":{"id":"9"},"headers":{"Host":"34.216.72.1","Connection":"keep-alive","Content-Length":"10","Accept":"application\/json, text\/plain, *\/*","Origin":"http:\/\/localhost:8100","Authorization":"Bearer $2y$10$6eyBNiIa6c4zR5HM0Fv9Zu9YSKFnrlOvlHRgVqGSi1rkrFMjTr8pK","User-Agent":"Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.86 Safari\/537.36","Content-Type":"application\/json","Referer":"http:\/\/localhost:8100\/","Accept-Encoding":"gzip, deflate","Accept-Language":"es-419,es;q=0.9"}}
+ 
+############################
+ Fecha y Hora: 2019-04-08 21:19:58
+
+data: 
+REMOTE_ADDR: 181.29.126.51
+HTTP_CLIENT_IP: 
+DATA: {"data":null,"headers":{"Host":"34.216.72.1","Connection":"keep-alive","User-Agent":"Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Brackets\/1.13.0.0 Chrome\/53.0.2785.116 Safari\/537.36","Accept":"image\/webp,image\/*,*\/*;q=0.8","Accept-Encoding":"gzip, deflate","Accept-Language":"en-US,en;q=0.8"}}

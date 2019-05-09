@@ -1,0 +1,46 @@
+
+ 
+############################
+ Fecha y Hora: 2019-02-25 06:18:04
+
+token MP not found
+ 
+############################
+ Fecha y Hora: 2019-02-25 06:31:39
+
+Pago rechazado
+ 
+############################
+ Fecha y Hora: 2019-03-08 22:27:20
+
+Pago rechazado
+ 
+############################
+ Fecha y Hora: 2019-03-08 22:42:36
+
+Pago rechazado
+ 
+############################
+ Fecha y Hora: 2019-03-08 22:45:59
+
+Pago rechazado
+ 
+############################
+ Fecha y Hora: 2019-03-08 22:49:32
+
+Pago rechazado
+ 
+############################
+ Fecha y Hora: 2019-03-15 14:44:39
+
+token not found
+ 
+############################
+ Fecha y Hora: 2019-05-02 22:57:13
+
+Pago rechazado
+ 
+############################
+ Fecha y Hora: 2019-05-02 23:11:54
+
+Pago rechazado

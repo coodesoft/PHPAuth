@@ -1,0 +1,89 @@
+
+ 
+############################
+ Fecha y Hora: 2019-02-23 21:25:45
+
+data: 
+REMOTE_ADDR: 186.39.179.158
+HTTP_CLIENT_IP: 
+DATA: {"data":{"hello":"kitty"},"headers":{"Host":"34.216.72.1","User-Agent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko\/20100101 Firefox\/65.0","Accept":"application\/json, text\/plain, *\/*","Accept-Language":"es-AR,es;q=0.8,en-US;q=0.5,en;q=0.3","Accept-Encoding":"gzip, deflate","Referer":"http:\/\/localhost:8100\/","Authorization":"Bearer $2y$10$.yBvBCXvBL50YOvowlmMEuGz2RKrSBzjZxu5r1KyXH4Fop1SDqcmO","Content-Type":"application\/json","Content-Length":"17","Origin":"http:\/\/localhost:8100","Connection":"keep-alive","Pragma":"no-cache","Cache-Control":"no-cache"}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 22:01:18
+
+data: 
+REMOTE_ADDR: 186.39.205.250
+HTTP_CLIENT_IP: 
+DATA: {"data":{"Rol_list":[{"cod":"0001","Name":"All users","v":false},{"cod":"0002","Name":"Admin Usuarios","v":false},{"cod":"0003","Name":"Cajero","v":false}],"Organization":"","personal_info":{"FirstName":"","LastName":"","email":""},"id":"","organization":{},"Pass":"","RPass":"","errors":""},"headers":{"Host":"34.216.72.1","User-Agent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:66.0) Gecko\/20100101 Firefox\/66.0","Accept":"application\/json, text\/plain, *\/*","Accept-Language":"es-AR,es;q=0.8,en-US;q=0.5,en;q=0.3","Accept-Encoding":"gzip, deflate","Referer":"http:\/\/localhost:8100\/","Authorization":"Bearer $2y$10$fgg9huUw3dXbQO6LedTkN.hilbSpEHDzFA3lGpapdZ3yaoN8VtJ\/q","Content-Type":"application\/json","Content-Length":"283","Origin":"http:\/\/localhost:8100","Connection":"keep-alive"}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 18:02:32
+
+data: 
+REMOTE_ADDR: 186.39.205.250
+HTTP_CLIENT_IP: 
+DATA: {"data":{"Rol_list":[{"cod":"0001","Name":"All users","v":true},{"cod":"0002","Name":"Admin Usuarios","v":true},{"cod":"0003","Name":"Cajero","v":true}],"Organization":"","personal_info":{"FirstName":"juan","LastName":"perez","email":"juanperez@gmail.com"},"id":"","organization":{},"Pass":"123456","RPass":"123456","errors":""},"headers":{"Host":"34.216.72.1","User-Agent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:66.0) Gecko\/20100101 Firefox\/66.0","Accept":"application\/json, text\/plain, *\/*","Accept-Language":"es-AR,es;q=0.8,en-US;q=0.5,en;q=0.3","Accept-Encoding":"gzip, deflate","Referer":"http:\/\/localhost:8100\/","Authorization":"Bearer $2y$10$8pFJHnycdGyEX0b2HcKLOexkrNOP3ZRhsYmhtg1vLS4Mj0iIisH0y","Content-Type":"application\/json","Content-Length":"320","Origin":"http:\/\/localhost:8100","Connection":"keep-alive"}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 18:11:38
+
+data: 
+REMOTE_ADDR: 186.39.205.250
+HTTP_CLIENT_IP: 
+DATA: {"data":{"Rol_list":[{"cod":"0001","Name":"All users","v":false},{"cod":"0002","Name":"Admin Usuarios","v":false},{"cod":"0003","Name":"Cajero","v":false}],"Organization":"","personal_info":{"FirstName":"nnn","LastName":"ggg","email":"ggg"},"id":"","organization":{},"Pass":"gg","RPass":"gg","errors":""},"headers":{"Host":"34.216.72.1","User-Agent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:66.0) Gecko\/20100101 Firefox\/66.0","Accept":"application\/json, text\/plain, *\/*","Accept-Language":"es-AR,es;q=0.8,en-US;q=0.5,en;q=0.3","Accept-Encoding":"gzip, deflate","Referer":"http:\/\/localhost:8100\/","Authorization":"Bearer $2y$10$8pFJHnycdGyEX0b2HcKLOexkrNOP3ZRhsYmhtg1vLS4Mj0iIisH0y","Content-Type":"application\/json","Content-Length":"296","Origin":"http:\/\/localhost:8100","Connection":"keep-alive"}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 18:12:36
+
+data: 
+REMOTE_ADDR: 186.39.205.250
+HTTP_CLIENT_IP: 
+DATA: {"data":{"Rol_list":[{"cod":"0001","Name":"All users","v":false},{"cod":"0002","Name":"Admin Usuarios","v":false},{"cod":"0003","Name":"Cajero","v":false}],"Organization":"","personal_info":{"FirstName":"nnnf","LastName":"ggg","email":"gggf"},"id":"","organization":{},"Pass":"gg","RPass":"gg","errors":""},"headers":{"Host":"34.216.72.1","User-Agent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:66.0) Gecko\/20100101 Firefox\/66.0","Accept":"application\/json, text\/plain, *\/*","Accept-Language":"es-AR,es;q=0.8,en-US;q=0.5,en;q=0.3","Accept-Encoding":"gzip, deflate","Referer":"http:\/\/localhost:8100\/","Authorization":"Bearer $2y$10$8pFJHnycdGyEX0b2HcKLOexkrNOP3ZRhsYmhtg1vLS4Mj0iIisH0y","Content-Type":"application\/json","Content-Length":"298","Origin":"http:\/\/localhost:8100","Connection":"keep-alive"}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 18:23:59
+
+data: 
+REMOTE_ADDR: 186.39.205.250
+HTTP_CLIENT_IP: 
+DATA: {"data":{"Rol_list":[{"cod":"1","Name":"All users","v":true},{"cod":"9","Name":"Admin Usuarios","v":false},{"cod":"10","Name":"Cajero","v":true}],"personal_info":{"FirstName":"bbb","LastName":"bbb","email":"bbbbb"},"id":"","organization":"2","Pass":"3333","RPass":"333","errors":""},"headers":{"Host":"34.216.72.1","User-Agent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:66.0) Gecko\/20100101 Firefox\/66.0","Accept":"application\/json, text\/plain, *\/*","Accept-Language":"es-AR,es;q=0.8,en-US;q=0.5,en;q=0.3","Accept-Encoding":"gzip, deflate","Referer":"http:\/\/localhost:8100\/","Authorization":"Bearer $2y$10$vfbHCkXk7qnF.5JHZc0BsOPZxaVomf8Qub3nugjY.G\/2JXMmxOoRq","Content-Type":"application\/json","Content-Length":"274","Origin":"http:\/\/localhost:8100","Connection":"keep-alive"}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 22:27:19
+
+data: 
+REMOTE_ADDR: 181.29.126.51
+HTTP_CLIENT_IP: 
+DATA: {"data":{"Rol_list":[{"cod":"1","Name":"All users","v":false},{"cod":"9","Name":"Admin Usuarios","v":false},{"cod":"10","Name":"Cajero","v":false}],"personal_info":{"FirstName":"","LastName":"","email":"test.coode@gmail.com"},"id":"","organization":"1","Pass":"123456","RPass":"","errors":""},"headers":{"Host":"34.216.72.1","Connection":"keep-alive","Content-Length":"284","Accept":"application\/json, text\/plain, *\/*","Origin":"http:\/\/localhost:8100","Authorization":"Bearer $2y$10$mBgtOYGiccC7pvu0GWhL9uOV5oV90N.8DqKeoLQYH4xprYvtK4LVq","User-Agent":"Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.86 Safari\/537.36","Content-Type":"application\/json","Referer":"http:\/\/localhost:8100\/","Accept-Encoding":"gzip, deflate","Accept-Language":"es-419,es;q=0.9"}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 23:16:34
+
+data: 
+REMOTE_ADDR: 181.29.126.51
+HTTP_CLIENT_IP: 
+DATA: {"data":{"Rol_list":[{"cod":"1","Name":"All users","v":true},{"cod":"9","Name":"Admin Usuarios","v":false},{"cod":"10","Name":"Cajero","v":true}],"personal_info":{"FirstName":"Usuario prueba","LastName":"1","email":"test.coode@gmail.com"},"id":"","organization":"4","Pass":"qwerty","RPass":"qwerty","errors":""},"headers":{"Host":"34.216.72.1","Connection":"keep-alive","Content-Length":"303","Accept":"application\/json, text\/plain, *\/*","Origin":"http:\/\/localhost:8100","Authorization":"Bearer $2y$10$JC3ZHQ7t7daDeTQ5Kv5yD.n4hioQBVZbbS7.21yLCIezqOfqGy\/by","User-Agent":"Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.86 Safari\/537.36","Content-Type":"application\/json","Referer":"http:\/\/localhost:8100\/","Accept-Encoding":"gzip, deflate","Accept-Language":"es-419,es;q=0.9"}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 23:16:58
+
+data: 
+REMOTE_ADDR: 181.29.126.51
+HTTP_CLIENT_IP: 
+DATA: {"data":{"Rol_list":[{"cod":"1","Name":"All users","v":true},{"cod":"9","Name":"Admin Usuarios","v":false},{"cod":"10","Name":"Cajero","v":true}],"personal_info":{"FirstName":"Usuario prueba","LastName":"1","email":"test.coode2@gmail.com"},"id":"","organization":"4","Pass":"qwerty","RPass":"qwerty","errors":""},"headers":{"Host":"34.216.72.1","Connection":"keep-alive","Content-Length":"304","Accept":"application\/json, text\/plain, *\/*","Origin":"http:\/\/localhost:8100","Authorization":"Bearer $2y$10$JC3ZHQ7t7daDeTQ5Kv5yD.n4hioQBVZbbS7.21yLCIezqOfqGy\/by","User-Agent":"Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.86 Safari\/537.36","Content-Type":"application\/json","Referer":"http:\/\/localhost:8100\/","Accept-Encoding":"gzip, deflate","Accept-Language":"es-419,es;q=0.9"}}
+ 
+############################
+ Fecha y Hora: 2019-04-05 16:08:05
+
+data: 
+REMOTE_ADDR: 181.27.186.229
+HTTP_CLIENT_IP: 
+DATA: {"data":{"Rol_list":[{"cod":"1","Name":"All users","v":false},{"cod":"9","Name":"Admin Usuarios","v":false},{"cod":"10","Name":"Cajero","v":false}],"personal_info":{"FirstName":"f","LastName":"h","email":"lucho.2012.tandil@gmail.com"},"id":"","organization":"4","Pass":"567567","RPass":"","errors":"Es necesario especificar una organizaci\u00f3n de pertenencia"},"headers":{"Host":"34.216.72.1","User-Agent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:66.0) Gecko\/20100101 Firefox\/66.0","Accept":"application\/json, text\/plain, *\/*","Accept-Language":"en-US,en;q=0.5","Accept-Encoding":"gzip, deflate","Referer":"http:\/\/localhost:8100\/","Authorization":"Bearer $2y$10$k702jWlLzeegcqr9zSZu0.tNHESeKImlkicOYV9LN8iMLIil.NKeq","Content-Type":"application\/json","Content-Length":"350","Origin":"http:\/\/localhost:8100","Connection":"keep-alive"}}
+ 
+############################
+ Fecha y Hora: 2019-04-14 20:16:37
+
+data: 
+REMOTE_ADDR: 190.229.3.182
+HTTP_CLIENT_IP: 
+DATA: {"data":{"Rol_list":[{"cod":"1","Name":"All users","v":false},{"cod":"9","Name":"Admin Usuarios","v":false},{"cod":"10","Name":"Cajero","v":true}],"personal_info":{"FirstName":"Javier","LastName":"Bergero","email":"javier@gestarcoop.com"},"id":"","organization":"7","operation":"NUser","Pass":"LemonHorse406","RPass":"LemonHorse406","errors":""},"headers":{"Host":"34.216.72.1","Connection":"keep-alive","Content-Length":"337","Accept":"application\/json, text\/plain, *\/*","Origin":"http:\/\/34.216.72.1","Authorization":"Bearer $2y$10$a7XnmST\/eZLNo19924s.zeLx9WZiSDEV191aEBGCb5RoiXgcx8Md.","User-Agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36","Content-Type":"application\/json","Referer":"http:\/\/34.216.72.1\/cajeros\/","Accept-Encoding":"gzip, deflate","Accept-Language":"es-ES,es;q=0.9,en;q=0.8"}}

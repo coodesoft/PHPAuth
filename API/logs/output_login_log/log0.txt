@@ -1,0 +1,2171 @@
+
+ 
+############################
+ Fecha y Hora: 2019-02-14 20:06:20
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$1anvxJAhZyWhkPml2pPp2.fuJB7wi4dLpVC1QFFZ1dgp.OgC2i3jq","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-14 20:19:13
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$xLOjUOuJIf\/QdyJQfSHK4OkhxQNWsyy5Zb697hS4jPx\/vPFR5TsnG","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-17 01:45:43
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$35ErNL4z\/2uvqZWyychcAO.Cd9Wa5vBVx1Uup3BEhT.5zMmxCOaqi","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-17 02:02:43
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$WihjGLJBxZTTq9GRcgGQKu5TPd0GJD6lSZzde..ayTcRfd7TZtO8K","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-17 02:06:22
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$l7pfFvEhbiKq.kKZATpEsuPqJa\/adUudBgO\/7Pg9QciBARsEeo3tG","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-17 02:07:23
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$Z6f9xn8oAR\/RcU8EP9gjweTH\/hrVjLIKeBuTDhKO\/uFSjBFCWUGPa","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-17 02:20:10
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$4NpOCk8PmwXTECsfKpwTUOhS0Bp9UZIpGKVClc9Oro.vSkzdE2\/f6","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-21 17:38:55
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$QeskPvs9pjhh2hsqEh5I6.5jUbXl6JGcIQ7RdfkitUysbgS94tCtq","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-21 17:39:45
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$U2ZzTAQ3LblYixHvBmrg\/uiyPSo5fYrbq9VQxdfLi.Fi1V6dyeJ5i","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-21 17:44:13
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$8qgpKBjqT1qp3MJSSVkN6eZ6bqtcpJsxCm0j\/4YoUGDE3vuOcGHfG","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-21 17:48:48
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$LdGPjBfJ6xMfKCOcZ2JpuuG9IpTJEevcv5am3.IbMlYI7bcIUZKZq","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-21 17:50:06
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$BvIdoj5HFtIUujBCu2kgzukILt0YNdZoHYNmjKWizD0GctkhhlDEi","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-21 18:35:58
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$06mMho4lqIOTy.dIOyfk2.CXX72C8NUTdHV7rfiTxKFkg1oXhAlXe","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-21 18:41:58
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$fG0mcHrQcC2dr9bbrVnc\/.iaI7TR208z9Md\/zfsbRZhqkU5l6Wmiy","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-21 18:50:37
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$wn6IcjRpWAzLz8gtQdJlyOsvRqDviM0HdIFBbeJtsXWUYWAK1k4EG","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-21 19:00:39
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$WbgS1\/yWlufOnvglpsdbTOrSmh4deA4LuP4wC5vg.M9e.2wgwxEIq","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-21 19:03:32
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$xa40xY8KPrSh4YN2JL9ZHe3Xb3cKDMPkwZNVMAlnycyRb5bgwIGE2","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-21 19:11:00
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$kpmSE8\/ulUnzAknAiNcjXOfHgGXyWFXKKOZ7nLeqC2.DCC.iLOWG2","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-21 19:12:02
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$MbboYT28xPzmZ1Ai1gDfE.t8I058nQ62TJMWzSCWmqUTCVC35D70C","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-21 22:49:03
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$EQUEhjOxMkk1TxWqOGGKvOBApB8e5n4cF73MJ5ATybOfJNcxWa4yO","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 15:58:53
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$6TTa4mnzzgqC4THA7WLnZ.m5kHBw1x0wOHh3ahFlzxaMbas1s4vH6","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 16:03:18
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$GL31A0F.v14gPeZGKfk5gOYy8rQDI.DDe.LaBfahXdGUsnx9sq.b.","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 16:12:03
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$e\/xiVxjG\/xLQeI.lX7giZ.AyzBI1G3xEyJN2s4s3F7eOsVy0AvcQK","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 16:13:32
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$0s344nlTVernSjmxzwuvLusyPXAKRW3kNEa49MnWWErjBvzb5wG7i","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 16:21:53
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$EW5OjejLrurzYyqbOpmYtuyjKYSKV9bxAb5Ty4n0q.\/nhh0Cl5Pje","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 16:22:33
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$.CRnjTSSuRqSJPZiaO6rQeMKffgpVF39mEEAM5ZeRY9fEaW0UayVG","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 16:22:52
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$\/JumDrkVEbU8qeBtR0CB2uxtmmW7D2Gt3UAfod8fVUGba5Tfz6S7S","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 16:24:57
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$fmIf2JW1f8XrvUNZCgUk1OZsszTRAq\/FKnFN0d4gsJzjP3d.q.jpW","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 16:27:30
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$HMjR0G0auUJRbqQaCZSA5.cNxmp7khLRAiAEKJcqLxGmtn.Q89Wxe","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 16:29:38
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$8vlwQyhGEyD68Hqb6wGPfO6BHcD\/be77m2pL.gBONVElJndXivqIK","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 16:29:50
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$syguZh7d2fvOs3HQhMe.wuKNoN9wIihP7kkC3VDfeAykL\/0bK7O.i","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 16:30:53
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$q2MQ6asvNFyFwVgbmBVjfOlJ0I5gv\/fk\/6z\/4tgMD0hfJDv4i3Rf2","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 16:31:07
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$c7jiLYlwRqtwptfb6umJauM2rki.IFt1cY\/SzdE4E9t9MTNOvZJnu","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 16:31:22
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$IHp5xkgqI2MOnerznn75i.13FTMJXOMpiXFSs3Y2k3g9AWQjfStq6","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 16:31:37
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$gcxZ5Speo6JaqRodokexB.FbVzpsUFlRWToHAnu0L2im7rI9bkdp6","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 16:32:34
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$VlappZFcSeUiPk7UBPe2hOOyCuaOKss9v8wTE4qDwrcr6Op5aHazS","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 16:33:08
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$vT3crdC099JgbdoIMOPgs..moVtj9fTKfOvuAy3ki\/RWEeXoKF4C2","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 18:00:47
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$igqmzWIehJHfYbJJyQRHWuvKxE07xDdgIIAjLV3mIWx9ZXJTWivlq","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 18:46:36
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$uGlL8CbQB2W8czxDu989ce6ZnHa3pfWJq4wTjoxOf2vkfE2ft85Ne","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 18:51:12
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$HTCyV3\/ze9S8.jrC54Qase23z.guEaUBAcBGPX40pnqu2YTwVS.Bi","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 18:51:50
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$ApeMKE\/jEzJ.dP.8MfT0B.IdgjCllcueIQpciuyiS.2zrzVwk8\/iq","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 18:52:26
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$fzqeGLtW6cBQCawBck19HeyLvQTzGpARBCQ1s3AABJRcLOMHqQwly","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 18:54:39
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$zETgW0X5PU6rg2BP1FT70uAQr3MZ1X1H6lQ4gTSyVl3NO5admi12C","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 18:55:33
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$LGaVo07qhJYOfSoWnhhgLOX99WXgkCj1OEKUnDEx9wY5.FmikM8qe","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 18:57:20
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$Y7Sh3VDEzFf3MXkwXRnNkur4jnWNALgFFXAq5Z6htZIPVpTDoVFC2","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 19:10:56
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$PS.y.YRt.NRjtx0DzM3FX.vWWGCOiVjFSyyu773WzM9LgLxTMVnEG","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 19:55:00
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$Uzwlh7\/03ugsFX3yRfp4\/.HrZ2XzMScMd\/50f3zTRzynCWPTdYJhG","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 20:01:37
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$scEKc0tw2ft.IJlpRdYcA.Q1rUnBGWz6S6GLs1nzlunagWpP4FWHa","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 20:03:33
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$nv5Wh1f8VZHBE5i45IzSPOxJJRsGT770Gj.xE6joK64ldJfKYzc52","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 20:05:45
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$V9jgRS09aF4knnGonuyg3.K86h1GI8mBF\/s9kcfl22II3gsFwmk9S","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 20:08:43
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$XScg0D\/htV\/5Io8OOutT1exBdJGLD3syy.1F9wVmVDFwichAQmCqm","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 20:09:30
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$U\/vz1rJDUBUpE66viXkbg.SodIuG.vb.VLDtgG7UOGKArkcLpQ6qW","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 20:10:39
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$oLMnZRKN1B1g5hICrh9T9eTgF\/c5NWUp6gl2J4LbJBRaxJ3.zHDLq","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 20:26:11
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$swkXeCW3wg\/8YH162Gm8k.kZdnUbwBw4\/aztZMv9VbeIZGT\/82nba","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 20:27:14
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$gK3olmFdxSNhElMqixpuUO.bTaXb6qNIjU0mQ5ZM9NGDnApp.V052","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 20:29:06
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$\/hOdB9zj0j\/Tt3LNbBTk7Oc0kFZYN16O.fe3iS1y6OAUNSZRdOUQG","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 20:37:53
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$BXH.gNBOiSgXqQ6vM5JzGeK2nvVEha\/pXyiHVBZC.PlXxJX.l2QFK","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 21:14:59
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$9fV5CAsfLUsYLW6gJvL4Eu6L9HXgIhXbHUr5C2NnkZrvmWst9NdTS","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 21:26:21
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$XRT0hnyZd.tBhm5kByL9r.9CwNac2d4ZF6MDPJ.Grt2szvtAY2sUm","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 21:27:30
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$Cak8xA4yF0uMRudW83B12eF4643O5AVOn8.7yqJHHlS32CpNNPa0i","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 21:31:52
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$vOcK5dl6FLKIIjGHbaeNWOcuhIMow5j5CVwC\/HVQCsr1JwrvKbZN2","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 21:34:04
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$JUroYYTnbIJhwHm9ASrIOO9AjjwnSfr8zASxIFqk.hjkGuEID2ruC","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 21:35:14
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$i8ADoxpmhdzpKUhoLLs9DezjdWmlxy8j9MkjpMA6Z59eogTXF0lJi","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 21:44:10
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$ZtgczZJOizL4231p7uPwEO.XE4qhS1rJSkdg6YYpYMC1QL4i8iKSO","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 21:49:03
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$cS.HuHKznJNDRTUeAaInB.3DTfqFzDaOEqs0G4m8DBUbvrE1.81sq","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 21:53:30
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$MB6Y9VMOy5DdovA8\/G2LgO2WGFfOf8VF13dPEZi5uHEjRFVOSMd.G","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 21:55:30
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$AfWq4xlPrhFJQiVpoVFBke1PBPaA3sM9FutMNLGlmw2i.IXuU5kO6","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 21:59:02
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$YmUQjET4bWt9YoQM.c.vIuPC8CAvQqiDzBuVBzuIj3kPPbjTkP\/Lm","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 22:02:56
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$8kgxCbY8XcFQ3bnF2QIK4OR1ZCkG33tEY88u1BESAJOXbdgco64KO","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 22:04:43
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$BYUHOZQGziwVQSZM4BCIluU09A5pSj1GrXm\/wlslDt6DR3ywgvvu.","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 22:06:29
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$a.NnhRqgGf4GmWM3Yli11ubKRTPvkr6wHl6zDezleRDZsnXW8gvUK","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 22:10:35
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$SmpzbIdQF7Jfj87jVkFXTeuzkxjacpXRnPIxesTvrrFnwBL\/3r0s.","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 22:11:38
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$lrFVWkSJkXHfcIKIi0yj\/uvkc2clLnKeaG9Aey9qf3iPc15IBwEli","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 22:22:30
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$jLMOQLsWylvfWG25N32Adum.IYXfSjQ7Nw.p54PoI3mQqGhOP1zfm","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 22:26:52
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$4Q2QF5KEDvAZHHCG1\/FSxe1XdeWMJZJlTJeewjFSBHlDWyBzyBRxu","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 22:32:33
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$0XVhZMSai8NybAP0ir8lUOds7lr4SqRUt2I0D5YJgj7raJiZGe4mW","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 22:36:05
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$i5CFhwUz34uogpOawVHY2eptcJEjLLDoz.ZGTypNO\/nJAYWkxliE.","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 22:36:44
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$mXMiIscql8JN.VZfafODBu0Rn\/c9T\/qgLi4EVVqKD2Xc9QqDrarW2","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 22:37:46
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$oSW1FuqGP.nEhrS5fhmsX.zhxAlIq6YwJUh4daDcJxxnRaDEY7Rkq","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 22:38:31
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$iqhMJNXMojXSIiErHGl\/auScC6d0e7Y4ik2AH8PbEsSZnwLu74uiq","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 22:41:10
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$5NXOGHJlcT7Tyibk8CCahufOSL1N3kZ16WUTMi2c.NbNjnoa63CCm","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 22:42:59
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$u1Y.nyc1uNizI35lldHJeObFOQwiVwoh.Y8mr.y.JEH56JtaRtqQ6","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 22:45:51
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$vfzFuE6hNy\/tx64WNX5P.et9oJygtXEmlDTMWzhMs6O7OmHb9DEFm","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 22:47:48
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$aYnE7qPd0WJe\/pLyr3kT\/.7Q37bvaoSRLzBVcUaOb9\/Q3qoC6ucd2","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 22:53:49
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$Xu\/5iySB3gjONx0QbsxFoO\/l7HdyT5NTJkqIzOtCyYC6.qk19S74O","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 22:54:37
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$FPocGme6QxGF9fgIKzgFiOgvBwc3jZNI56ld9uN7\/QgC447gnUIe2","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 22:59:53
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$bPUhY8GaFjgOG4jeu4xg5e8QP1H3FnYr14rjWzA.ZZzf9dSllW.92","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 23:04:01
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$WTjkT5jvgg7DaISfOy.B3OA\/SA.mfa\/FmaGT5HK7C1iKUOcJqUDMO","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 23:06:33
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$LFVuoSnTkPQ.OY5J85d2ee2GB7ME9Pb6T07FOaz6rKdTHie2dqOUW","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 23:08:34
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$uTA.hYTIdbNolYHq\/lVlTePLEYH4VBxkF.viHwnBxp\/cUIHn7z6PC","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 23:12:37
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$5Br225lEzankc0Vt6J0IKeq9z38Ap1DcuHwCGzmMZjNLNlo68MT8u","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 23:14:20
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$dFZNArF9pNGkz20x5wL.eukXtQVugssW\/emKXaKH7sPkmFq2u2QwO","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 23:15:45
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$yUTppCmCTcvmEvAaOb\/NH.5cao2dyOz1ycqlslcC.XykVTODA5STG","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 23:20:27
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$.0V\/FG\/uXE5DD61YncAShOuItBkLtPBdfAaQAnVrbV\/zOpDQO6BUG","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 23:23:29
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$ywTZpjwftFU2oYi.GXacLecx8wJ02R3eBz\/sZy53H42JIB8bTWAPy","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-22 23:26:22
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$5W8VtFn1k\/g7qk4ab.L2x.RFuTGwoGvIv\/aE6jwlcgC\/mih2nZHGe","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-23 20:49:05
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$V6SNwxhFmOUkp3IWeDO5j.2j8KP7kB3fa1JSRI94NTTq\/9RmjRVsy","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-23 20:50:31
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$aDYrVfELaM3kYhTCKdToa.UUlHzbQFfcdN\/JRb\/JA2iNLLeF6wFvy","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-23 20:50:36
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$Yx0UuuovjaDVGAz8zxo\/.uu0sFtRCDsakGVg7UcCmaaCh3sUzfwDe","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-23 20:56:32
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$dy1YWKeQ6l51vNdYwn9oO.D8kQpo.x70pZmrliCmVTftuZkRK7s6e","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-23 20:59:21
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$c39D0aMJqGvOJaLNrb.zMOrqiP\/ZLxCa1bV27CZ4udQ\/ZimJ\/ufnG","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-23 21:05:23
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$K16IQ5r5Z\/KBbtOhnzMq5.Xu2GawyMwyjBBkA44td4JW1eGRDX7pS","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-23 21:09:20
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$hcS4SmZn8IO14TUGQuC3v.vM8KFZ\/a\/l1gyu2sd8Shw25zhV.BuJq","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-23 21:11:07
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$UECw78N6SrknVES4bsEyI.SYZoS1HeedYzLNMhyzJHoWzH5RHHyQe","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-23 21:12:55
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$yynFWWV\/M65oZwX2xIRJCOLVyeOfhDg41Ftr19ZfejP6BwtM8QmIy","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-23 21:14:36
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$uRhbGW2eiIv.PJ.CRnCx1ueNRVCVa7ZGrczn07eXDPrsZST9tI9Ka","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-23 21:21:41
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$ICNngOxQz3Jd4AmKvFAqpedooF.NCx.ITJ5w3ACBMS\/VK0Hsm.Tqu","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-23 21:22:07
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$3FG80AOqHTUEtvCcaTQTQ.1iH4dmC4b8oWtMHeNf1O05RxYW\/ev7i","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-23 21:24:22
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$1sHb7BGkF3V5cQv8ZKo3.O73wW6skMGsQhLEqG1AZg\/al8tjTbWk.","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-23 21:25:43
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$.yBvBCXvBL50YOvowlmMEuGz2RKrSBzjZxu5r1KyXH4Fop1SDqcmO","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-23 21:35:16
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$9LA6UuF4cWmmqcvARvOp\/.vLnxVz45DHOxpE5ERiZCAuUhmzrbf6K","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-23 21:36:07
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$yM3Hyvvs4xVzjfOBnELfFeESn89VsPm.AmoWb74h5poewt.gBQy7S","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-23 22:01:22
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$ANznfBprHpYaMXzlqmXadOurGkTW\/Km0AwmA\/WwUkF7paPtsvRtgm","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-23 22:02:48
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$5yHPMmev4XMrYOP2JrDSvuZQfv\/YlX8v2vSmKJ9LlgUyTj\/T4o2xe","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-23 22:29:07
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$qciXBqk6GziVkQqa3wn4muRbsFHcJOvon1IhZKrw1rG9IALmWHQb.","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-23 23:19:14
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$wrJjHj0hfxHcnKIPPOvRIelv7pqJYufcF2US2Nxf1\/bIMJOWKhCgO","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-23 23:26:44
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$yirZycWkeXyXO1Im7jiqJOXltEG8hgxPSmNSBMDYvRHtor2HRO6ri","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-23 23:41:39
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$cUoaIo96FLAMd0bHXbg7zOU2kOpSnPvCBgwp9gTkleVwuDP9mVtm6","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-23 23:44:56
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$K8h1t74JKWC8A4FLsUPwvOd1wpu\/HEPvbXUwjqhGrSLD2ev028mSK","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-23 23:55:13
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$\/L30rGtnj.XSGSrrJqZhKOjjhW3C30Em3NjlYM0tgO2qKoSLn\/fQa","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-23 23:57:44
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$DOw5UZ9gtrgVI4h4QmGXauwvuIGNZsDggYyjl8quFB1ZexYucrcXu","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-25 00:01:07
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$jzvKQOoiJGw\/ymH\/JRiNnOYx2YQGsiZ8LWEiAypOZa1H38QvqVT2O","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-25 00:02:22
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$2VhD9dQxL2ZtAMl0nGa6uugMe2WcAv5fiFSH8KM07GRY4JqeDdI\/2","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-25 00:04:54
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$JdFywkSqWZfoOklUXtqVz.1jzfQP9Ebmp4I4NAipOEunGt4TpuNAG","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-25 00:08:17
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$oZAahLz\/3v4DXrFsdifo8uGkdHfya3iQJ.EyOeW0Lfq.V\/lmbxWuG","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-25 00:10:17
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$s2cL3gouUCswzFpizIhs5eQ8m0xlrXO5vpg3GesnpZoDQvsXUhxrC","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-25 00:12:47
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$v6C8JWU7ETcxwanLMy.m6uq7KOFJiKUyV0hMqAazUgs6BR2dAiYFG","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-25 00:17:35
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$if0PpTdtRO5nsdFdaQqwquJsk5mDXqlzjiQkvDnZ71eXkFxSxYDve","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-25 00:20:55
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$dVlE8U3EXNjpzfmvz45Xx.md80PPGZI1Z\/exU61H5n3aEjOXELpWi","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-25 00:27:47
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$w4n\/qKK9YeuzPmzIYAbHfuSufA\/APOAactXFxOnBFji.Qc0HF0okq","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-25 00:35:41
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$f7avW8hPZJgk3J6qfKW3Wu5d3Lgwf8cUmKgY6fJ6YDY0eonkFRv4S","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-25 01:10:14
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$ORuWNz74Agyq7LachOJZt.t.CIR9fpddoOfYUDlsDkRtHc.5gH.hq","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-25 01:12:47
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$7WVQFeu7YEkzeoeCbs6C1efq9ZM590E3.yb6HRu6ne\/ujr.V6rOhy","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-25 01:22:44
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$Xe\/\/jpmd9LqSQDw5kPeV6.RhMdjWSKW8vjZBofeh.OtvQIlviJ7wu","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-25 01:25:57
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$BUqg44zGhXBcbTxgIrjUaOXZJciemVBl0D39JahOnYR3y0oz22zQy","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-25 01:44:51
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$PITc0RCyass4s5Nc6U0XC.weHhkAa5c17FyqDSJgqiufDWADGGWxW","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-25 01:45:22
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$gOOI53TKoNjIODYR95fM\/.XkoQpg1zYq33aAjiGi6hAD7qggPEN8e","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-25 01:48:29
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$jw8M\/cYvlaeu7hNnV6r92.IIVdfuTz4NuqOR0WJ4vk9BbaXvMRPmS","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-25 01:50:54
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$qBmP5XYJqoKKlBg7eOGy5.9ur2Qq6iMnwFqXRUh\/D9paGjSpmS1DG","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-25 01:52:57
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$But7sKYAyvqqfTu.PWl5LuTdY7RQWnLCrcQpoAHOvZj51TqiN2xO2","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-25 02:08:11
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$.zCxmqdXa8qyuytjr\/Hac.FHF5atxx5vj5KYclST5snKOJa7o01H.","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-25 02:14:16
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$8Jdp25egJlZWToC8SJxoa.Ul6pIh.dHY8duDlVbc4GAHQKmgARF\/6","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-25 02:18:55
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$3oD.dSJrg1lj9sX6pvFND.DCnJt5siUSjgezxnm7wPpng\/G\/Xbn0G","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-25 02:21:29
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$3OFGdT4SJj9ip\/4Fcg1lde82XAEjInl02pbqmX9tfNAN7pZ6nmRr.","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-25 02:28:18
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$\/DaFJvXvFLRarB5Dk3UJF.wru0qaUXenZcyLO7wDoYAj.UmHOapKG","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-25 06:05:28
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$u93JwRwCd8c9SqJ6KNcBwekV9vCCLNRR60.wqTVFEbbbRLdIbJfVW","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-25 06:41:33
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$4RWZurVF51EHJRkmTIjLXeFek8lsM0W06.KeaSvE9bzRwvDjit0\/C","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-25 06:52:58
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$VALHBz0BGztWiHHf\/52KPuYFtoWbT7RI3hT8Hzmwz2ep2tfO.qKtu","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-25 06:54:06
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$NXaclLxvbnToBMEUAlbBEufJyboX5IwspFPi4iwkVjZmAZh8xisgO","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-25 06:57:50
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$hzYuUyw6VvEjDBv6Xa53EOYTZRWHmJYM8LSjm4.eGctfr2G59\/awe","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-28 18:14:46
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$MGjbJYGN4FNB7K6vIJIp5OJ3UfKIqPUGXAqURNK93smEaMNmZNgoa","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-28 18:21:28
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$XfhbeupxadamN8ufWzoE1eiDwqhMRF9CdEdRGxucIvvGI9yMEa1gq","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-28 18:29:38
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$YpA01C9sAt0Ij17Wvb\/wGekdNwKkm95c1v2nnEWlA0IRuXKiuKabi","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-28 18:32:27
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$vCl5Q.jebBFH37NtgWkzNOt31P\/QVGSMorDkLreYu6y68x0JYT6OG","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-28 18:33:28
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$Bmyrnxrg9Xp28HrROA8voO0Dt50JqOwgQfwf5a6fQKYXtcsvkOLQy","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-28 18:38:58
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$SzvuQYblcgbe0RB6HP8TgOXb\/Ejr6dhBkWZSe0T3uXm0edb9fn1WW","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-28 18:42:52
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$XyOhk4SDljgFgIbd8p4Qp.cBa6zc.EJOgNUQTHJVYeDcP4Sqgi7P2","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-28 18:45:24
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$O8FCrRxPWoIM5kq5rlcjCebbtQ0AWZKeQ1ugSqS5BzPas134ij6DG","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-28 18:46:11
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$HPesZuqwHKJ3suNWWS6iLeRDK99Hn7\/7Zi8klKE2Bz3rZTeoIcOp.","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-28 18:47:18
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$jWbNxH.VK3qlGa.tMDQ4heT98Ls78EwsYpdeX36rIwcoeQ\/S2Fone","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-28 18:48:23
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$WhxEhlpyppAXvletGT\/oXe.ncqcU\/iOkVQQ5jfdPs5PsHOX.iJbt.","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-28 18:49:24
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$4vaOY4wR4rtmLxJvJGTr6.R3kXRoeulY2uPvF3LnwPfzDVLlAL7Pa","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-28 19:05:18
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$U\/1rtY\/30sEijH9FAxRR\/.UOreqTP\/YdHCMZSYycrHymXwc36GuI.","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-28 19:06:48
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$RvoCB.bfe.qdtSwSGMj1KeOJIvfC7fs0r8w5URyYQnhIYYUkeVAPG","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-28 19:07:41
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$bWJxOCCAVrXUPnp7r1oxAe.4I1lEWI04aee5CebpVu1igvYKcJVf.","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-02-28 19:14:05
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$O\/tzhfeOTItWpqlnmxV\/sOhIshziSmgbaTkVYO1TTn9h4HeApUGGG","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 16:02:25
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$dpIxzsdZeQfANPCirQO\/hOEnIEv392w\/SIx48lebjUltxAU2UBtra","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 16:12:28
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$6DuhdLQ1VMEo3Fo80K\/ct.1jLPvlEzqdaIKqeOwSDgguf1jpkvcEC","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 16:21:26
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$SxrwotYrFZ65yfiXpQc.setuVom71xIV50nCeEv2M8B36EvII9m5q","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","organization":[],"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 16:45:47
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$seEXV2gdXB7iizrjPACgPuCKX7ecEKlQ2vfAXfua63qwvyg.JHsX.","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 16:50:23
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$KmMChWRsjUsCs3iAo4cgUOAV.iXhCpEEX6GSLqkkbYMhW6pxSbG7O","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 16:52:13
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$A30XzEfvtnwbg.lODewdy.sT\/LnxZ7hYeSzF5A0hdGWp.AwRluhRm","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 16:53:19
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$ucDVVp9tSChon3afuPMbaeG\/lOWjS\/CTQsJCFAccyV73AB1VzYKxK","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 16:55:09
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$kt9ladhKpWeyHiFO29xPyeD\/7hQrd41dbLWs6EqzGryucNYw6gkka","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 16:56:36
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$6XhSh2l78OBpf3Zb.qSnAOxzUOHDS3v76t8puCECFbB0FrO0UOyKe","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 17:02:07
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$TfW13Bn6bnfo3AJpH8YWaeARbnVynW2pqgp74jCR4tk\/OYWqycAzu","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 17:06:58
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$N.9\/o\/KHMFVui8Ou.PaZ5.vpsfSMVsZVGXxgvDde7tZCN44fwxXxm","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 17:10:08
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$HH7BgY6UP3B\/PTxDkcoLKuj8drAyeSu29PXk0KGUsR9hlFzzikTXa","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 17:12:01
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$6v.kY2VQj7hSGhM7saRlxuRLmPa8oHlnBm9ML3UEDu2qnHYP4\/GhS","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 17:13:02
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$z9KRoKmgKjPtHevcmlUPy.z2swqB2fJzYl0LcV4Y9QpWlvvF.TB4.","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 17:16:59
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$9zjjfbWIRDem9z0Li26Nt.p5ofSA\/avkG\/cZj4aqr\/i9bhM6E.GqO","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 17:18:01
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$AjL3JY3g120sACvBU2.y1upEhvPVw3HP3d3tnny5G\/6abBFScsk.G","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 17:45:56
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$XEd4u2Xczxh0g.ZDRoPqo.u8lWUR2Y5h0LC8asV\/AHlVngH3oFTUS","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 17:50:45
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$0mnDnTMW46XFWLtsqK9jOO0ZG1Oq34ieg6pe2wlETifln6Ibcojoq","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 17:52:21
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$idkCrLrKN8s5AjVM2MpjROA.YzdZbPWU4yYrSzzgj\/ph9\/x5uAlL.","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 17:59:21
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$eQZS\/iT1t0uCGLBN4dQV\/.nWxGdPwyjsXINU6dmatUK1EttfB4Kr6","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 18:01:03
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$iUiP\/RABFTsaHJJvJZtWieEDRKFGE5YIMqTVPodY0P\/JcnlrmVEMq","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 18:02:52
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$DQ1dCEKD\/M830sNg37bKwOqoMf8UauB4JpRwC0a5vEsUL\/0XoCneu","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 18:03:33
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$TtXNf2xTmqYIjqwlu3EwxOzLMO\/u30lNxQK9uyv4dksbswrkJGzne","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 18:04:14
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$65FuKCcZVGvpKXCQ32\/aeeSjf5msL4joserBZVQRDj\/tFCSOl2jjS","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 18:04:59
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$C0N05s5G9LR..ttZy50RN.vnHL4lCq6Wu04nABNHZ3ZXc4gwr71qe","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 18:10:28
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$rbBiry72F\/Rmh2yAgTXmquuD6L91r5ckp5vNra5krz7091AEQd.Bq","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 18:10:58
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$z1VP7lVO1948jv9DyWqQ.Ok1V33wqPuNjBVDZ6LN1sJKp7WjbbejC","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 18:16:11
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$EfxRaPc9bftBuJCsijJ4P.Rjou1pC2ZDd1LQVQ7SQoSp\/PN8fHJ2m","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 18:21:15
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$O7wlHRjq6smsBXyvHVZ\/zOl\/JyNqWU8dFyztNDz7ATE\/taauYUPjG","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 18:30:23
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$p7ZTr2qk3gizUvOzkDu.yur3Wy4bADvIQlEuP\/xFPTB5HY6H36ZFO","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 18:32:03
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$DUVNoh2\/SJGwLdc0LEr1f.LNzVNf0I73SmZBDtEy.J.KkgP8Gm2gG","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 18:33:13
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$4WHo05w.8TGBndf.oBqvlebx0McDX0TQ6TrhYPnWckKKbQoFByvr2","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 18:34:06
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$VbSFBDRteVNcAcOeqxeyKO5D\/UteZjY94CsOCPlpoN3p47x8n78x.","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 18:35:43
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$JGHoRxd2qD91oFd8HtqXHudneBUfc91gdjCjuvcJDKIvVKc\/g6txW","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 18:36:04
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$mKUw5uTBAKfs9QAZgIThrOuz9jLxmfRyg0F4gssfrN1nRCgrUk1vC","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 18:36:44
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$PIGYqi8ofwIROMyhrukqCOoPEZcXIE.9HSDxbeUQbmrazY0I39ST2","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 18:50:54
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$47S1npkOf14fCtE2.F6sKemWN6S2TZd7m.DISt4x2WAh7KovsAP\/2","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 18:52:12
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$Ynf.CK3h4WKI1Z9thktspOSd4ZPX8FYbeyxXscA96Nw9uZPeIFLD6","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 19:05:04
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$qoyumChmerVsS.R9AAijSOQzgZfVw\/vOazNzSIa70xLj3kGKMTXLa","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 19:05:54
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$ye8SUbUNSEYuPLHVekMUDuH5HPK.WkzfDjs0o\/oU5lq85ZE.Kp5sy","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 19:08:38
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$Vri3gsJnR1atUWvtqE2JDu.KNd\/dqbM2ohyiujiuaADQdr0nSmJAS","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 19:09:46
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$5zFIsqf3aFFaCSbOs2lv1uUUpalygsONp2QoA.MLp3SgTqh.74r3i","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 19:10:48
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$SmgWklMRQZaOGeXVK0KnJ.ZbwIsdqzhsEJ94DcfLtTpuSwj7MQy6W","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 19:28:05
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$T1DrNyOPVF6\/WyUA3ikHnuHrD0sX\/nS3tduYpCr1ssO3Nqqu5Qf36","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 19:31:34
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$d0KOgs2qqp4A\/O29aK5MCO8sI90ZMX2V5xVlTKRwE6RLnZXsuB9F6","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 19:37:32
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$2u7.ft67Xci06gVkIqOzXujs.ZA1Y1K.S2zU.hvFSbpG0he2PJ8Da","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 19:38:06
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$mzhhzH4GsyD3ao3GqGQ9QOZqbBzTYtb6phAi1LRzvAftmyZLLT5Xu","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 19:40:31
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$b8cZeAKi88CEPdRXK57N8.ONfP0lOPU5DGt1PG25NvcJdJ.IUPT3m","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 19:45:40
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$ftc9UQZvP7ZoTm8wS9QT9OTmLrvscdnooIzeK\/XPvwCYhbK9k787y","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 19:53:34
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$ZNQFEL6lUlzPUEjJw.P6vOSHVPOa4CArT9gVaGqeBNvUY4z5GTACu","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 19:54:33
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$lehBtBVxggDr12ojIaUP1e4FTm4ycR6XhGDfLcuCjaGpgdMT06zc2","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 19:55:55
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$xKd85WtUkTw6uMGq0toH6O4XwhUy9dqIfgmx6PH..L4fCdJjrgype","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 19:58:30
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$a7XmM\/UCvifMpMP0cK6pLudGeP6lSaN1F\/bsCiHYlq8w\/QJO5x0jq","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-06 19:59:58
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$bmkKLfvZrLkXw04tB7\/2M.AM48KUnddjiKl5mRBVLPRXjru3nkSN.","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-08 21:29:07
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$ay6dj2yKnyRTY0sCamebZ.OnUSWSkGa0c7ELUzuOI5Oz1uwMADC\/i","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-08 21:30:48
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$eStEgj\/oGzrz9flj7jnc6OcHV60bktMDDtbqrZYuHT1LXaE1QERrm","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-08 21:31:23
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$oymmut0mpLQ\/q3ZFlU0zi.vm2lRFs7GXiI0lcYeLpuv\/9JE\/9lkO.","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-08 21:35:38
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$FnxhhEHgYHuIwNB16iSLBOH.9WmDHzPFwxG3k\/8rJjAbGZKLjGPZq","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-08 21:44:23
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$UX673PA7A7OdU0DY2KMtpeUFmHXa5ILMBtJKONDs2SHKcJsVCvE1G","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-08 21:46:43
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$nlEvkLuAmcR\/taUcb7uA0eYilH28YrwJbHdeLDnCd8q9bXh4lHG4e","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-08 22:03:18
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$pp707Jvsr08iw0ELGFUC2.GFhn6iBIXlCYTEboWHQJpZKftap0EO.","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-08 22:13:30
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$xkg5hkkyMMwxMq60bJ.ZzuFCvVPv\/VWbACob3uhrLkJy\/\/yRdb22m","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-08 22:24:03
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$SGGYWafucGQ9KGwUGHzixeTUtjTUtpx6bJthbiwHFlQn0X9qDfU0S","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-08 22:26:30
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$HtiZFnA\/ZFJrAMX4icyJo.zbg1WE.3FAO9fnMhJVP\/dALkgJIsDTi","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-08 22:28:12
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$2o\/QQKEu1K7OR2.wIwmpK.\/Ms5yGDenvB2XFUjpOP8nzZUzTcY\/aC","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-08 22:31:16
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$TIi\/FEXmhL5a4gWNeaQh5uha9C2aBBKmCLZWlg14WN3xbbDyQVNue","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-08 22:34:06
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$V3XL3YAYMiGrV8eF4KAW7O0bW\/UzVBdLCak2wMX4sf5DPTQCL6RZu","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-08 22:38:21
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$yZg\/kM84oolBxLpfQNfNYOw4J82QL6Bv4UglFAtYZhU8fhcwNHwWq","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-08 22:41:23
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$0xiwOOue3c2JbfSbOS6MeetU3NFGNPcohDCRCVdaYx9FwTnVUGP.q","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-08 22:42:17
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$VtQ3r1iO3y2E93n9\/PX2deng2.q7Tj0gTU8p7B\/6pkHxr2S9Fih0K","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-08 22:45:42
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$AcCY1YHK7RN9LuPBn4KKteArrwkUbiuTmi6i6OiqiqUx3hIVpQJmq","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-08 22:48:27
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$5iI3HwfeHGad5bnf5CtQQObySg0vrAP54HGgqOheqH5tIjcI88uwi","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-08 23:00:44
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$e9LOYWXOMKc0Kwa34xXU8OVB20\/dIYEp4EYJmFmx2TGeoKd4DluR6","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-08 23:04:01
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$dzFEGCQYwLDTzOmFlF.3ieLcXeScqntbU20.IrUOF8V4wVprHKREm","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-08 23:11:32
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$.N.rJPOOuEI2Idon7i7imeSEkF6q7CAEFtCqCoRpoXrEb.ioXiq3i","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-08 23:16:36
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$ZqjSlFAq9TExsLTDPFQyWuyKsSIGWLiLYQOk5oTpAIwSxkWy1cbw2","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-08 23:19:04
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$YOzhUU71.EGGy\/MRusBbTOGAWnO4TA1qqHBcBIhhNZocsJIc9Mmo.","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-08 23:27:18
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$NAiCTft.80Qa0GXgzqTGE.yxbj2GX90xTkIlYRzVR.kwO\/ojrKlqW","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-11 19:17:02
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$cK\/Ga7W02Zr\/vK9XPLzIS.IR5jRRkzoHcl8Sxg7U6vRtb1pYcJ3KO","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-11 19:18:02
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$qDIZ08PHYADjMa3ykMWKAO.Cta.EOAZQoIMj2hPdyW.T0CHLqG5eO","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-11 19:33:28
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$6Nb6b0Bt75dEFr7wNNNWF.Y8Z1hrEcFAOQ783NH1b6.JRFvG5cS4i","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-13 23:13:55
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$VRBGYlDIPQijWesiqZfLROfdsnkKz148hMeM0pNpP3k5nXcZ2DxUG","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-14 21:14:22
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$0BQmWSoXZFWH9eD55F59XO1WnnfirujJG4XwdcLK3r6B\/WiCV0aum","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-19 09:42:26
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$ldBrfGPpFVY388IXncXJDuUy9HHVrESWRIpC75aVSlTLjQvIA5Ogq","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-19 09:47:57
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$6qwLiBPYnDG4xd3Y.BHnAOSsv6JLWVz.O0w7FU\/\/AaDMv\/02LIdZi","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-19 09:53:56
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$ssTgWjJuM.zM6TUoi9VkNeL0.EaHq7S8tB9SWkbGQWTwb2qqFPNKC","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-19 09:56:54
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$Px4Hhtufh8yYqwjSpLDDN.8W4nUNPFelcDW7cY19U\/9JMYjJpmpLS","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-21 21:13:13
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$idsiK9twcy6\/lKoKyKk5DeYRMERPcMEMvQyRH6yCzWwwqrql8eIgq","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-27 13:05:25
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$qlZhPajXt33PhiURs96e2.EMWGePyfHOQ\/ZdvFJK0.HJsot2xVl3q","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-28 00:41:52
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$NsJCGbUxPfIgChdVueFb3u3M\/Ai2nr3Gs27BLgbegJJZalMU3.lBi","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-28 00:43:45
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$MAkKnS\/AEBljJ0FVF.0lVeEPAY\/UJjY1yjdDF0f7mT\/YC148A2Kgq","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-28 00:51:09
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$g8ZaJKu\/lp8q9i28Kd8eueOjp7rJKIOC5Qt9wb9PGswqlAoR3UBva","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-28 00:52:16
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$A4plmbpbg4VkBFO.6w6KweL\/FNoDYjw6PCcxkk6OGcMSW96JLxMqK","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-30 18:26:47
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$Rmn0gHuJ5WDu197QO0pXUOZTEzjtbWEMIONLrquHoehaWETTSGNzi","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-30 18:27:49
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$l2r9smq2u4IxvSr0oGujYeaBnpeUF.IgUZ8c9QY\/v0T9sNoy2InCS","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-30 18:31:16
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$xn4UOIG8A5UMI08BzZOqMOsMbw.0wGOFv8T1JtE7ztMypxZcw5nxm","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-30 18:33:31
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$kdMZIF677ozT\/vBq9h5ge.vjaasUcawGyQMBjE1eIgKpJwLs4R5U.","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-30 18:39:46
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$KnK6MizoOpLtvrkCRk2QqeYI2WILdpUvHTJoarcHAupeS4YkhYKKO","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-30 18:42:49
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$VeAE7Svzoy70ucaXAjySqunkSx8Geua9i9H0cAXYCncSwqXx6TR\/G","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-30 18:46:05
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$bLcb0ssdvFE6H2EYFNzpl.Se56eAucTi38.qAmJcQyLduwljO57nW","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-30 18:46:49
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$VppA\/Wsl6ccFX5gOA2D2z.f9IL3l1iw7kOTxNWztlKtqIc5kBe2dS","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-30 18:48:18
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$3oBWqlbpASyC\/UNnLvn97.0cMzg5QN..TaH9h5xHyxXxROJefOLnO","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-30 18:53:08
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$iuR.pBimuVlGVtlPQ05Fj.3hhkXWPmjiSQ7ty43EagLaetpEQb2Y.","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-03-30 18:54:17
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$EF61EQU6iX3KuDHR7E7dFOc43icGCYQFIakCpQfR0moS3Qbaa5mDu","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 02:01:40
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$pRPp.m0C5EviT41Cqo88OO3.XCgbxou0SVHCtLGHNzTu1kMfoBxlW","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 02:04:44
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$wOnqr1pcBJByY9fhuPSQZ.9I\/.gIVmL\/eKRn6rk6SmXBRk9l3Z4Ny","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 02:06:08
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$JJ7Z8h0vGSEyM1NSyB9NHOFJXngJbnCGl8Se3jAi4Z6Rlxj6Wgy5C","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 02:06:46
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$QOV.lAda7hzAkCLOG45nUeBSzDLN0StyMoIQanOlfyaNrFYpc95DC","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 02:07:52
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$Kpi\/CYBietmItEeW0jchlOkVdnjHd50OLaQkyE4YSqR1yY2Ld4pS6","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 02:09:13
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$H7HHWdrf2uNZdjn1d\/wsyOzPtAnAgx9k4Nc2NWvAGBNyP2SBnI0rm","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 02:11:18
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$JK7PHdPE0Xorr\/GqyUShY.cvnIlJ7rqiNYlIPX6MgIqwe53owQoOe","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 02:23:16
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$mrNhSbV5qiOa3wsxtj6ZeOOlwi4ceqva.wOMtmvEXl9Psvgb6sLma","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 02:26:21
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$tc8S\/ZxWBV2U9F4\/FmDuye1GGkLMopzIMqzn.pWyQL2S6MXaSvRjW","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 03:22:37
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$6kBC.qtMxN3Z8CBzqK\/GFuKFDOnnQBg6o4AF\/IJGa9vV.3hEv6NKq","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 03:24:39
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$2IGXhV5vMIXI3lpa7xmz..wZEphNLEUP\/GztD\/xCAlMjP26CTzA52","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 03:41:23
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$xqb5uR3ntGLRnhzQJMjuNO9LXXGO87JrlEI7hiPkSBVkUnUmr8r7q","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 03:47:26
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$yfgMUuIooohjB28s3yml8uCob6Iwy7AViplE.Dh9QkhxoWDHUiDRu","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 03:49:06
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$AdTc4v9ACixYjUAYjUs3I.PTpT6NtpLY7GcEQ7.xCCwzuKTlmRhBa","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 04:00:33
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$ftkKXlkG8X.\/3a7dcrzeK.TVLOILFNp45F2Xd1X.t5TvwbENpSvr.","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 04:01:54
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$Hemsv1lpHo8NPguHPhNWM.wGWLt16crRxS97YL1dtTcadRQmFMSf6","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 04:02:29
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$3ggKiuiJ\/nx8AbZFAOUQ0u1T0Ql5X2zfVCayNi85ju40jX.yP3v2m","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 04:07:56
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$ayMu7UtrpAwtow1edF1u\/.77k8og2RQyvBK8AvwUw.WmI9Yf2SoE2","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 04:16:00
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$IIwfKsgfd7gyTydz4qbLOurIZpOPU4AWbf9QAcEmFCGARMxgRpElW","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 04:23:55
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$LeUPlFKZ.Z\/BevSJQGIev.CC2ck16TW8KrQEg9ywHIHTPXeaYTrJ2","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 04:24:57
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$..ZkGZM843CrW9H9JQGKPuuGagUFBEyWMufGGGcA\/kwUowvaqI9.u","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 04:30:25
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$KSnoot9DYJ6\/.gEDyIo3XeGdodfkycVjEfV4AGMABYT\/62C9kwpDS","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 04:31:08
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$G1CRG8JjEh6E3q9vccZHe..pjoL1t6xVUKWPXEsyKFpVsWrNiYbrm","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 04:34:56
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$SnI4p2G7h2opdW0wIs53t.BUpMYSZjXZVkWWzmRphJphfM0hWUk4m","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 04:37:19
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$W8gVh8ddvX5S9\/x5fLtT8.703ChxC9z59hDvovINXhs.Rps4wz8JK","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 04:39:00
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$s3m1b4AUBjK.m2y29Xh3COye8OCf6Wp1UyODfzJRRlMNZNMwO\/lJe","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 04:40:48
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$Qm5fUd0FH7p5j\/wYDyTLKe9VfYUSHmD9VFMK8V\/F66yiVdTBn.3Dy","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 04:50:56
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$a2pZws30imDgaBLJ2miwJurJRTA7hZS4b5BJ0FlC5msyJp6nEgfEm","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 04:52:45
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$tcfJOG.na\/PcswiON8a6suiTlg5NaoT8Rjl3fIWuGeTaZDLYcTEzm","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 04:53:24
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$H2tuEdYMxToveywm0HWhROx9i8O6fnUbASIz8JPkTj9EyZ5oE.PcS","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 04:55:40
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$rhJVR3LvLY7yKOUWAtCh9.HeZSlDUvWJNtBd2kZuHj3.V8t4aKrxe","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 04:58:19
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$MIxZzEd8adkjzymbYq\/EAuExrOvqTSw7rDuMvhxEItGnnxdu1iUrq","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 04:59:30
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$rpGNcDI98Plvm8Ob9y.zbuaVB6Q3UlTbJzgohmJ48Sv7f\/ErcRPIu","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 05:02:19
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$xCfbw6A7yK3QaW2jFmc3Lu7n5kpSsmOOSCxfDomCOoC.cvL0fhf4S","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 05:05:05
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$sX4dHR1js2CozTZtBqWFoeTRWmUNrSaDzuUarArrJaZR.5VWkm8Qy","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 05:08:27
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$UEP\/fWBZdXLlkcOHR.5yceN\/ILZ0ulhykwTmw\/9hdg9ApJQKYMjsK","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 05:10:04
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$dBY\/dsDnv\/MCR9dOmyKMw.ClyYgsOtX.yv.OHZb3hEtznTAjFVxSe","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 05:19:25
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$hELURmaOZPrAgNba1IQt5eeBSqFQFYY3y37h7BhyzWDWzFLY6nKOe","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 19:52:40
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$.KfpkSgcRXbuBHVLh7Y2we5pM5Nw0Ik15wUPYjdXSfJipeI6Hqp2W","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 20:00:00
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$AZRPqlGeNr8Mz6s5Z9AYS.F8rtFu3bFId68wEc4W20wN26zEJ7PjO","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 20:10:17
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$bJofWZbZghHtIfxO67jhHupK.LDHnpkemh5mOeIbIltygPk4.HcRq","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 20:17:12
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$RiGOlZfn4Y885bachFdOre5yotymqW593BQoFs9UhuJ8LuMRCbeZO","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 20:17:49
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$m6l0I1J3DpVX9TvSxGx5uukg4rSpQSXGSJ6721iBNE73retalG1Ji","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 20:21:01
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$S2vRD4je.hkEM0UNFhedm.S3T.Fv4bzHklOfCOGyBDegw\/pvrIOrm","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 20:33:28
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$nAFIYKUu\/e4wbWyUMfIn2.eBp3aFX6oEaeM\/IuYvYFjATY0iXR3i.","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 20:46:19
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$bPhWAfj3wfOoa6\/.Ooxd.esIzVgorVg0isOlixTHqIsGVn6qjM7\/u","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 20:51:10
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$Wd6zMgXV4JETHyDClkd.g.88Nuq0m.wWXxpajsYHBRJ57qp\/IuPE6","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 20:53:52
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$r9EtlhAzdqngMpxCpxTdO.OgeRj39N2owvbNCieoxClQP3gFjmcdm","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 20:58:41
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$0Cz\/L0Kn9EIbFaZCKDweYOdckez\/R13oEZATGSftSYbNAnQxwzlnO","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 21:03:05
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$g0BwBfz36QBk337t5CeQ5O4pgxb3acXF9nHttGOJtuDv7ohxnslB6","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 21:15:36
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$3GW\/.s7SK2Eu\/b8S5iKX9uxsyjzj2O6xlTCOEVmikjR7TSW4Hy7f2","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 21:21:53
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$zMHrEkUsWTXQcoQj2OA27.rNcHW5acKgv9KZKZ98MT6WoMrpF1cfS","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 21:24:55
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$Iw91P4Xx\/WrAgP6MGy9w\/uxzEMbbp9CS8RcX69eAInJRvZ9v5yQ9.","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 21:32:00
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$oqjKUBvwO5R3tXnT5GLse.qOj3Uid.762s17\/JtZvL\/CjRoKywkAm","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 21:36:34
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$H53JtONMPb5sU41A6.dNC.xPiKmDuCQHcKh3rGBc5xGGlCCgRoB02","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 21:54:27
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$vTN0Tg4R8OTIWIhGQcvgEusLHyTyLBMDSJoTNJNk.7m48kd31fVNi","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 21:59:40
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$gRnqXudVLKv88bmwbNTzM.sSOuCpW7B8Gyxpav9Q5uJf1lniUiUUW","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 22:01:05
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$fgg9huUw3dXbQO6LedTkN.hilbSpEHDzFA3lGpapdZ3yaoN8VtJ\/q","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-02 22:26:50
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$.gr3tp4IPpdNLSDiYChADeDXAEjXqwpn7znC3YDWuRZsLcAtBYDXy","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 01:49:32
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$9xcNWiDMio61pHn0PvP0Ief2t62sxvIu8Fnf\/QTbyymC012M0QQcC","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 01:52:53
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$Vx7g2ADoxNQ7ge0mXo6Lo.HsRJ0mJa8HbBPgkJkNgCP.gOBBksEei","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 01:55:30
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$H\/Qh4ok.CuIbA\/vOVQJ0cuilNjggZDQG.C3spQXlmLFvxzzi.AGCK","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 02:03:46
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$fiF4yBx5yImrUenA5v2tf.V4Sh3Kuqey0HGhQ88VN9oMlNnQgrBpq","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 02:06:51
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$p4pae4imScNer4DCbRHBX.LHEmyA2yUll81UF.bp3XyYCyZ2vWv4S","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 02:09:49
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$Bp6YrAcQWck.gh7G6PHjj.dUqeob.NTCEqFO181s\/XL.xLCr6zNl.","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 02:11:47
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$Y2o.JG733HERAK473HwOr.9JUtP4i3SHFEREUuVOzg\/KWul\/SQY1K","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 02:15:50
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$tQGi0q\/RdmsheIKk61jqpeYIQZmCbNpNW5s089ZLovDAUo5Y3Nroy","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 02:32:38
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$qd0x4fJMaXr9noyj2JXK\/ezDaeBsajVXUv1.9NoZ7TMrTxEtAMNWO","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 02:46:48
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$7NsqhtAIa1yHczbSx5u9t.yVMWbE7FFxDTa5fo1oKbZY\/nmU9ll5a","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 02:50:38
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$QiLb9leXKjaY0pLkG39meOiC7ybqwyV4Yottschl4ubC5kPrKrN5y","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 02:51:44
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$EmoXhUOOc2quc6zJ.M.exO2jztW9ZkltMSLn0QT\/r2vdefcZcEfo2","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 02:57:20
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$xkdUi5X98RaPZWxVsQUrFeUU3XEXfiR4R9kP1wwaYwC9v1mi22pYS","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 03:03:06
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$LKjbNrHL2ZhBBfz1TWE5l.Tqsbn\/MoFSiTCvf0ws4t6nhlnyzbCmi","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 03:03:53
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$HipxgUhNoDDOxqC9.uMo5ubuliDkbU8bdm0bUTU9i\/yoY5PjyI4iK","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 03:12:06
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$63nLx6XxPGqMrVQa5\/UB0eMkqWaLx6uSeFHXV6DK4w3BxEvyR7SIi","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 03:17:47
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$YRRZaFa8wba7JEgpb9UjvOaD.CtegSkEMJgjkvRm8c0IFTDZU.yZS","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 03:23:01
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$KK.aX0n\/lXujvZVvpqj81uDjnGunBNk6cdRHBWoFt.ihX7DiDC4Q.","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 03:26:29
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$7NCMW9lRWS9R0uejEvdpfuUnDi86UtH8VuuSQFpiFL4aBN\/vZLHWe","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 03:33:08
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$M9MexikbgP2SObYNGf0fcu7qcD2hTbFyaY65GSxqwXocgFK6oY7tK","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 03:37:41
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$CT.\/vZb4R0o7VsuvsZBNSuHzpeeCZ9b5XgGTwE.SNsBBbgl6z6ZvK","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 04:07:42
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$zmlqzu5mThzaJVVkqiA3pOLjpolK2PZRyn5raRgwLKqQQr317c6oe","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 04:32:11
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$nvdfubGzFiI7GsBXgi6vJ.WakBmhSiwEtXmBGubia\/AuRP6PDStpi","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 04:37:17
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$viPkWuQudh.KfRtRtZK9h.w1MOr3uH7eU4S69mmDGABn7KLgJzYki","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 04:39:29
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$7eIQTrY718YML5revw1mfe6jcVp.GEJxKeq\/HN3tOg0T.YXFhCvOC","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 05:21:37
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$mkFbZcPKLBRdVJ9u6FZTdOL\/\/YX5ynEymUba7uAuEViI0lzOy0\/s2","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 05:50:38
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$qsNOLqTeNRlPUv0IxnFmGe5Q4zI6P51t957GX7yi0vXtedW.vCH7W","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 05:54:09
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$JdlwlCApGlqe6TlPbVhNpeHArumLLnssZ5E2rbuooazfQCJaSR59C","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 05:56:26
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$RKU8FY7CEz3hNiqawTe6BOihLcb77XWIsGbiYoWmY\/OTRxzVSQZnu","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 05:58:08
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$nd7fUS4gPNuONnEtCiZxROBzEPPy53ZQezfZIetP2RUCHH.iSjFh.","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 05:59:24
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$IgNNSdGzrKZ3d1cla9UQ0.ZHRYgt8V8byw4jGsLShzjbZh7gz8wBS","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 16:48:40
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$.GV4BdjGtIUq2DkfnH4UpOPlManVjeQxVc7ahuHWmoWz4GTNRNHai","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 17:08:50
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$Ewfxg.9XY7yHpPKpP0UDCeQI1RbSaZxLqByL\/gk9xvG8qpvvInrF6","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 17:20:16
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$8pFJHnycdGyEX0b2HcKLOexkrNOP3ZRhsYmhtg1vLS4Mj0iIisH0y","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 18:23:25
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$vfbHCkXk7qnF.5JHZc0BsOPZxaVomf8Qub3nugjY.G\/2JXMmxOoRq","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 18:30:48
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$XvH1yuPL3ZYTkr9aiC0V3.kYJyANX3JxW1dA2W3V7RZpx88qiiMRK","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 21:25:01
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$UbrjT.EbXL4INeCo5ACSA.\/bvq0yBBJi.ami2qQInDllPpQtuR6K2","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 21:40:25
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$RnY.LgipJ0Ueju\/.fqFTh.\/NYs1r1vFAYVTmjwiYLSRqWRtGLPaT2","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 21:44:33
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$Y.Jkd3ST2OfTi1V1zBLvA.s93nrI23ukmlQVkZr7yZyj\/HWaGGFmm","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 21:49:58
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$GVleSZ3JUG1OJcWzB7enteyg2ex.tiKd55OGfVu1JFU3gKu5kXaUu","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 22:10:00
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$OdscjHio6l5KichtGOg4UeAhwW0cegpo3B3YexgqxmsU7F.KaO6oy","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 22:12:25
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$Pb.VQpia98Tl7G0iU7vKSuKLRj6skNDvGTGcw9eRiwpqdG3PAVKJG","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 22:15:24
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$u9z2a8QZ2ZMrkNaTjgZxQ.weHcuY6rG4HMzR15K8ycKTFJlYozc4q","personal_data":{"FirstName":"bbb","LastName":"bbb"},"UserTypeCode":null,"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"},{"code":"NPago"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 22:22:50
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$O7LEBn6lXQh9SJEUwrXp1Ou7bjc.J1yXQdCHXbJXadJuA.DMl2s\/a","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"},{"code":"NPago"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 22:26:14
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$mBgtOYGiccC7pvu0GWhL9uOV5oV90N.8DqKeoLQYH4xprYvtK4LVq","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"},{"code":"NPago"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 22:30:50
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$qq7uUiNFTbNVWXCn48qhF.J8gBKgZVYyOTJRNPixVUXMk5qLy9vA6","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"},{"code":"NPago"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 22:31:23
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$Xh4cON.sTNAgwzEW98QLjuw9kBj7F2W4UFPELSysoEoWupgHU7f.e","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"},{"code":"NPago"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 22:32:55
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$0S3tSrzvvw0uWHaX5n04R.AyfsThwaXmKgTpyrntgsaef8ni4tw.a","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"},{"code":"NPago"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 22:33:59
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$OeP7Os9yalQFHr7iqVEK2e0FpIRm6ZQLBN84YOOLfoLXnhn0bhb0u","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"},{"code":"NPago"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 22:37:47
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$jrV6ph0C52MAXhtuobDV7.mQ71WD9ZZG6mkMhT1qLYGxDgFhe9uR2","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"},{"code":"NPago"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 22:44:03
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$Oi2W8qcMfxsm743nbHPWt.J0OgjV3qwa5vSCTWn3AZh4bOT99dbCW","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"},{"code":"NPago"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 22:47:01
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$gNKYhjdKwMbbFUKE8BciVOWnx0FAtwbjhdcWyzghjyXxBp57KCsKC","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"},{"code":"NPago"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 22:56:08
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$z8rH.iEJXIWSFN67klKTNe.vgjT33GQCDQ2MQoqba.kJ..5GXhwQ.","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"},{"code":"NPago"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 22:57:51
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$6eyBNiIa6c4zR5HM0Fv9Zu9YSKFnrlOvlHRgVqGSi1rkrFMjTr8pK","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"},{"code":"NPago"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 22:59:34
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$xK6Zh4r.7SSbCz.ssUfQxuQnjFuZ6qwsWH0hkzmxAUIL8O7aC5x36","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"},{"code":"NPago"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 23:01:04
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$MdXIsGRDXk3HLjWoVQbME.qeAPIlqxwKlT3hjf9PG6sz144uW2Adm","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"},{"code":"NPago"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 23:14:24
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$JC3ZHQ7t7daDeTQ5Kv5yD.n4hioQBVZbbS7.21yLCIezqOfqGy\/by","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-05 15:49:38
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$1PWxtuQW81uFUXIMOGPyAOPW03DlRkOjlfJgZDbudf9jfiaOv74ce","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-05 15:55:43
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$rdqtFId.Dlug5OS6VOuWI.LF2d3w8E12mYrL27LrV6xpBOYKI1lce","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-05 16:05:27
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$vxBMAPiPlpp9hrNproUa8uQTRVC4jVLng\/fS93c54Qy77xMNz.AfG","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-05 16:07:34
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$k702jWlLzeegcqr9zSZu0.tNHESeKImlkicOYV9LN8iMLIil.NKeq","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-05 16:10:53
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$vr646Bo45Xd6MItrAbmUZ.\/pLTfuHmJ7KGCoOAt95FL2MOI4HlqHq","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-05 16:14:40
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$m2GQWH\/uMffdJsWpGZ\/mFOyjddGElqZUgW9TEQewDFYsBslBZDFYC","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-05 16:17:01
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$J6AJDXw3\/pahFR8N5BHUD.OIoMlXQDi98aOwOyGWJKYoTWxoty6Le","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-05 16:18:20
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$VoNUJmb.JSi3XSc3LHL9kOyhstZBhXFQgX4K4WWGaylLLoRVF\/0Vy","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-05 16:19:42
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$ht8IXpCcrGS2AQ8AHj.HMO\/zoe8Y7zV8dp42RQamtvdTY1LqPeXkG","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-05 16:33:19
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$KR3bJbtb1KvIlaL0jSJc2.TY\/puforJqkGoGoB45QjdHFHGydaCMK","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-08 01:19:55
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$fb7\/QPawRWBzQ.BBRAThDes7IFMeuMF9wUK2pLeV4zxHsrZvwMMaq","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-08 20:22:52
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$HOGteu\/hsQJ7yocWHWTZZucWHK9KlN9H5ZPr8Anmpw0rlgdvjT5Mm","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-13 16:51:50
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$80D1YWgJLGNPEdq5Lnaqr.yjG0aHbvl.380H5H60F6GDo6huwC2Fa","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-14 20:15:19
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$a7XnmST\/eZLNo19924s.zeLx9WZiSDEV191aEBGCb5RoiXgcx8Md.","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-14 20:17:20
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$yGTLIv2rHLQ68dGgO\/rpnu9TGp5V7WVmo0abjrLcl5wKoXDYfXKry","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-14 20:18:13
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$\/lfRB8nRcH21C.2g\/wRUTOMC.5gjVLhNJlgnUEaO\/LaxKCX8.Z4fa","personal_data":{"FirstName":"Javier","LastName":"Bergero"},"UserTypeCode":null,"functions":[],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-14 20:18:23
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$pAZvRdOX8M2AceQC9KcVLe3rc5sK8xN8PdRpLmISGhunc1iF946dq","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-14 20:20:39
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$bbth3beJysBn1O3W6NBZ\/OF8k03w5s2bU.kKYAGYufwf1sCrjc7zG","personal_data":{"FirstName":"Javier","LastName":"Bergero"},"UserTypeCode":null,"functions":[{"code":"MiPer"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-14 20:20:47
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$wCPEHmTq0HFBngaCvSSIA.9xqIjejLruMNERAMm7W3Eh9c.eiCPdm","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-14 20:22:41
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$ttmsNoRfCsDfW7R5NGjxmefYd56R7tADwSKhFaz2wO49zInyxwvMO","personal_data":{"FirstName":"Javier","LastName":"Bergero"},"UserTypeCode":null,"functions":[{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-14 20:22:49
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$F7zWv1NPO\/8oKb5ZhPNwrer2cW5NigaS3i25sYg5Ui1CjfPYspr22","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-14 20:23:30
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$6ZmRCHkPz0CSIAFMqSBARO1NIU6GQ3dsoUHhmJkW7DaaSIWPCVVaC","personal_data":{"FirstName":"Javier","LastName":"Bergero"},"UserTypeCode":null,"functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-30 18:55:44
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$VvVquOk19oTUNmBUihS4dutCE7d9Mg2hihjgVQBrymtNDVQm3FlfO","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-30 20:07:59
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$n8oSdTKdfGPb1tI.XJ6f7uTarPBjSkQsjH5ZTfeO0XaIKj36Pz8PS","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-30 20:14:27
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$96KNTXP\/QRWmDRAH7\/nrqeHDvxNDW.Rn\/bF1SXEyaI\/qLD5ljPjvW","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-30 20:17:22
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$2HcKLmjuD5p6PfzK1dLlbu4cDeogUHWADFLSpjfGdUWCgpWFTMmVu","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":null,"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-30 20:20:57
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$u\/LRK2ONkrnAW8Zv8hVlSekPRa.IlCfUvZ21mHpnK1Blqx0r.5aae","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":[{"Code":"GESTAR","Name":"Gestar Coop S.A","id":"5","UserId":"7"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-30 20:21:45
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$W1UM\/Nlr..6tvuATEq6v3ulIwwOMJRYftP1nnHt6AWmCCT6nflcOe","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":[{"Code":"GESTAR","Name":"Gestar Coop S.A","id":"5"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-30 20:22:22
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$ZIJ1DWEcq39ftS7hgGnzR.Ag51MVfHGczdqU57ezRRq7E\/xXMwzL6","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":[{"Code":"GESTAR","Name":"Gestar Coop S.A","id":"5"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-30 20:24:15
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$ZSup6On6iTN5b2gacof0Zem5Wld46atb.zBcZIcUFWdCKWb5Vm7Fi","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":[{"Code":"GESTAR","Name":"Gestar Coop S.A","id":"5"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-30 20:25:24
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$aM5cZ9L2m6QHjwdyQMz0xe8mNExOAEb7\/HaynkT9ZamynISaTDnCe","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"MiPer"},{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"NPago"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"}],"organization":[{"Code":"GESTAR","Name":"Gestar Coop S.A","id":"5","email":null}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-30 20:36:06
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$UElgLhiijCuDCVXk5VF\/eOuXZNBSIo0q5xgaQHLf29g\/svhsFBPTm","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"},{"code":"MiPer"},{"code":"NPago"}],"organization":[{"Code":"GESTAR","Name":"Gestar Coop S.A","id":"5","email":null}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-30 20:41:04
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$oGY3KiTd6S7.A5g5f65ZD.Rb0yUXaaq6CxVwAZgU.486a0.DFNVZO","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"},{"code":"MiPer"},{"code":"NPago"}],"organization":[{"Code":"GESTAR","Name":"Gestar Coop S.A","id":"5","email":null}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-30 20:42:49
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$IIjeaUtOQPy9qsPBeLLoD..lXiU\/mZd6wxw9oaCoup3Yk3eqijYMi","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"},{"code":"MiPer"},{"code":"NPago"}],"organization":[{"Code":"GESTAR","Name":"Gestar Coop S.A","id":"5","email":null}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-30 20:49:48
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$2LXJVhqoHTIIL4LPljmHyueFtnUFdiJPP8GvqkcxqIc5d78D\/eTbC","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"},{"code":"MiPer"},{"code":"NPago"}],"organization":[{"Code":"GESTAR","Name":"Gestar Coop S.A","id":"5","email":null}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-30 20:50:27
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$rC1ZV98j7xAS.Y1A6vXrDujcHN72ORkhNQnSsrmqqfDvHvmOdCAIS","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"},{"code":"MiPer"},{"code":"NPago"}],"organization":[{"Code":"GESTAR","Name":"Gestar Coop S.A","id":"5","email":null}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-30 20:51:47
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$WatRjreQ3ahdH.lbNobPcuzzLhDSJfLxNEAryo\/YFqkVmw0s75ZEO","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"},{"code":"MiPer"},{"code":"NPago"}],"organization":[{"Code":"GESTAR","Name":"Gestar Coop S.A","id":"5","email":"admin@gestarcoop.com"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-30 20:52:27
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$y3oB6HzfR86L8b6weDJeUez\/DKQnAyJbpT47SfAE3Bxk62Wc6NxUa","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"},{"code":"MiPer"},{"code":"NPago"}],"organization":[{"Code":"GESTAR","Name":"Gestar Coop S.A","id":"5","email":"admin@gestarcoop.com"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-30 20:59:47
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$ByjYTQV587605CTHs0f2h.8DJSkl84MkrexlRdZIpvAoyG4FPLDhe","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"},{"code":"MiPer"},{"code":"NPago"}],"organization":[{"Code":"GESTAR","Name":"Gestar Coop S.A","id":"5","email":"admin@gestarcoop.com"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-30 21:00:58
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$eL\/1rFrKThLCwMik2x8S8Ocy1sQR20KnGzVJBTFcAOeivng21wuZS","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"},{"code":"MiPer"},{"code":"NPago"}],"organization":[{"Code":"GESTAR","Name":"Gestar Coop S.A","id":"5","email":"admin@gestarcoop.com"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-30 21:02:11
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$q3nIuWw3LLLKJzvfDZTIUexxG2TfRxJK4AiN4zIo6PeT\/7Z7g3Rbq","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"},{"code":"MiPer"},{"code":"NPago"}],"organization":[{"Code":"GESTAR","Name":"Gestar Coop S.A","id":"5","email":"admin@gestarcoop.com"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-30 21:07:38
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$b7U4clhyTvfjMLNdIIX6jOt0lfpJrtGY9HXS4mhmogAG3UCeJLtKK","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"},{"code":"MiPer"},{"code":"NPago"}],"organization":[{"Code":"GESTAR","Name":"Gestar Coop S.A","id":"5","email":"admin@gestarcoop.com"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-04-30 21:08:14
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$U\/DedJBsMTdj5hn7d0VO8u4cZpXNeraTPnzojU2dnz6J4X0PVDj9a","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"},{"code":"MiPer"},{"code":"NPago"}],"organization":[{"Code":"GESTAR","Name":"Gestar Coop S.A","id":"5","email":"admin@gestarcoop.com"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-05-02 13:23:13
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$UwCSAxB68E5ipEV8FtLVKuwPY8H9blwE69yyJGW0J\/t0l9r7mzjbC","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"},{"code":"MiPer"},{"code":"NPago"}],"organization":[{"Code":"GESTAR","Name":"Gestar Coop S.A","id":"5","email":"admin@gestarcoop.com"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-05-02 22:08:26
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$928sR4vqeDt.0iLN8O9USeqN9UNpT7RMWC4H0btNAKwNezO0wiD6i","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"},{"code":"MiPer"},{"code":"NPago"}],"organization":[{"Code":"GESTAR","Name":"Gestar Coop S.A","id":"5","email":"admin@gestarcoop.com"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-05-02 23:16:03
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$.aLIoKg99C8vEjfqAW\/GW.5hC0xBSre77MpSWzHoFMRfvbF\/qsIl6","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"},{"code":"MiPer"},{"code":"NPago"}],"organization":[{"Code":"GESTAR","Name":"Gestar Coop S.A","id":"5","email":"admin@gestarcoop.com"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-05-02 23:56:23
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$2SP4.iCfXgCEl\/EIBiDyCuT5YjROI6vTiGo0ataxT4Wqijcusx1Be","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"},{"code":"MiPer"},{"code":"NPago"}],"organization":[{"Code":"GESTAR","Name":"Gestar Coop S.A","id":"5","email":"admin@gestarcoop.com"}],"documents":[]}}
+ 
+############################
+ Fecha y Hora: 2019-05-09 17:15:05
+
+{"error":"","result":{"success":true,"token":"Bearer $2y$10$PlEMn\/1aLuQJUuD1IDSwHuGIEH0I.LF8jx1Mivj.hLs8cqaYvo8gK","personal_data":{"FirstName":"Usuario","LastName":"Administrador"},"UserTypeCode":"A","functions":[{"code":"DUser"},{"code":"EUser"},{"code":"NUser"},{"code":"DOrga"},{"code":"EOrga"},{"code":"NOrga"},{"code":"MiPer"},{"code":"NPago"}],"organization":[{"Code":"GESTAR","Name":"Gestar Coop S.A","id":"5","email":"admin@gestarcoop.com"}],"documents":[]}}

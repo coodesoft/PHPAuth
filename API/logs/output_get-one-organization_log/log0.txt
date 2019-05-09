@@ -1,0 +1,106 @@
+
+ 
+############################
+ Fecha y Hora: 2019-04-02 23:07:22
+
+{"error":"","result":{"success":false,"organization":{"id":"1","Code":"dfg","Name":"dfg","PrimaryUser":null,"Created":"2019-04-02 22:25:49","Updated":"2019-04-02 22:25:49"}}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 03:12:24
+
+{"error":"","result":{"success":false,"organization":{"id":"1","Code":"dfg","Name":"dfg","PrimaryUser":null,"Created":"2019-04-02 22:25:49","Updated":"2019-04-02 22:25:49","disabled_on":null}}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 03:12:28
+
+{"error":"","result":{"success":false,"organization":{"id":"1","Code":"dfg","Name":"dfg","PrimaryUser":null,"Created":"2019-04-02 22:25:49","Updated":"2019-04-02 22:25:49","disabled_on":null}}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 03:12:35
+
+{"error":"","result":{"success":false,"organization":{"id":"1","Code":"dfg","Name":"dfg","PrimaryUser":null,"Created":"2019-04-02 22:25:49","Updated":"2019-04-02 22:25:49","disabled_on":null}}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 04:08:37
+
+{"error":"","result":{"success":false,"organization":{"id":"3","Code":"bbnnnm","Name":"hfjfggfd hgdh h","PrimaryUser":null,"Created":"2019-04-03 03:38:03","Updated":"2019-04-03 03:38:03","disabled_on":null}}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 04:27:10
+
+{"error":"","result":{"success":false,"organization":{"id":"3","Code":"bbnnnm","Name":"hfjfggfd hgdh h","PrimaryUser":null,"Created":"2019-04-03 03:38:03","Updated":"2019-04-03 03:38:03","disabled_on":null}}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 04:32:47
+
+{"error":"","result":{"success":false,"organization":{"id":"3","Code":"bbnnnm","Name":"hfjfggfd hgdh h","PrimaryUser":null,"Created":"2019-04-03 03:38:03","Updated":"2019-04-03 03:38:03","disabled_on":null}}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 04:37:34
+
+{"error":"","result":{"success":false,"organization":{"id":"1","Code":"dfg","Name":"dfg","PrimaryUser":null,"Created":"2019-04-02 22:25:49","Updated":"2019-04-02 22:25:49","disabled_on":null}}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 04:37:54
+
+{"error":"","result":{"success":false,"organization":{"id":"2","Code":"opop","Name":"nnnnnnn ggggggg hhhh rrr","PrimaryUser":null,"Created":"2019-04-03 03:27:06","Updated":"2019-04-03 03:27:06","disabled_on":null}}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 04:39:41
+
+{"error":"","result":{"success":false,"organization":{"id":"1","Code":"dfg","Name":"dfg","PrimaryUser":null,"Created":"2019-04-02 22:25:49","Updated":"2019-04-02 22:25:49","disabled_on":null}}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 04:40:37
+
+{"error":"","result":{"success":false,"organization":{"id":"1","Code":"dfg","Name":"dfg","PrimaryUser":null,"Created":"2019-04-02 22:25:49","Updated":"2019-04-02 22:25:49","disabled_on":null}}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 04:45:54
+
+{"error":"","result":{"success":false,"organization":{"id":"2","Code":"opop","Name":"nnnnnnn ggggggg hhhh rrr","PrimaryUser":null,"Created":"2019-04-03 03:27:06","Updated":"2019-04-03 03:27:06","disabled_on":null}}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 04:48:34
+
+{"error":"","result":{"success":false,"organization":{"id":"2","Code":"opop","Name":"nnnnnnn ggggggg hhhh rrr","PrimaryUser":null,"Created":"2019-04-03 03:27:06","Updated":"2019-04-03 03:27:06","disabled_on":null}}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 04:51:09
+
+{"error":"","result":{"success":false,"organization":{"id":"2","Code":"opop","Name":"nnnnnnn ggggggg hhhh rrr","PrimaryUser":null,"Created":"2019-04-03 03:27:06","Updated":"2019-04-03 03:27:06","disabled_on":null}}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 04:51:56
+
+{"error":"","result":{"success":false,"organization":{"id":"2","Code":"opop","Name":"nnnnnnn ggggggg hhhh rrr","PrimaryUser":null,"Created":"2019-04-03 03:27:06","Updated":"2019-04-03 03:27:06","disabled_on":null}}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 04:58:03
+
+{"error":"","result":{"success":false,"organization":{"id":"3","Code":"bbnnnm","Name":"hfjfggfd hgdh h","PrimaryUser":null,"Created":"2019-04-03 03:38:03","Updated":"2019-04-03 03:38:03","disabled_on":null}}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 22:31:36
+
+{"error":"","result":{"success":false,"organization":{"id":"1","Code":"dfg","Name":"dfg","PrimaryUser":null,"Created":"2019-04-02 22:25:49","Updated":"2019-04-02 22:25:49","disabled_on":"2019-04-03 18:14:09"}}}
+ 
+############################
+ Fecha y Hora: 2019-04-03 22:59:46
+
+{"error":"","result":{"success":false,"organization":{"id":"1","Code":"dfg","Name":"dfg","PrimaryUser":null,"Created":"2019-04-02 22:25:49","Updated":"2019-04-02 22:25:49","disabled_on":"2019-04-03 18:14:09"}}}
+ 
+############################
+ Fecha y Hora: 2019-04-14 20:15:48
+
+{"error":"","result":{"success":false,"organization":{"id":"7","Code":"6","Name":"San Martin","PrimaryUser":null,"Created":"2019-04-14 20:15:42","Updated":"2019-04-14 20:15:42","disabled_on":null}}}
+ 
+############################
+ Fecha y Hora: 2019-04-30 20:43:04
+
+{"error":"","result":{"success":false,"organization":{"id":"7","Code":"LGSM","Name":"San Martin","PrimaryUser":null,"Created":"2019-04-14 20:15:42","Updated":"2019-04-14 20:15:54","disabled_on":null,"email":null}}}
+ 
+############################
+ Fecha y Hora: 2019-04-30 20:50:36
+
+{"error":"","result":{"success":false,"organization":{"id":"5","Code":"GESTAR","Name":"Gestar Coop S.A","PrimaryUser":null,"Created":"2019-04-03 23:17:44","Updated":"2019-04-03 23:17:44","disabled_on":null,"email":null}}}
